@@ -34,7 +34,7 @@ function update({camera=true,animate=true}={}){
   state.limit=30;$('year-range').value=state.year;$('year-number').value=state.year;$('year-range').style.setProperty('--progress',`${(state.year-FIRST)/(LAST-FIRST)*100}%`);
   $('year-range').setAttribute('aria-valuetext',`${state.year===FIRST?'Cerca de ':''}${state.year}, ${state.visible.length} registros acumulados`);
   $('approx-label').hidden=state.year!==FIRST;$('century-label').textContent=`Século ${roman(Math.ceil(state.year/100))}`;
-  $('header-period').textContent=state.year===FIRST?'Jerusalém · século I':`Memória até ${state.year}`;
+  $('header-period').textContent=state.year===FIRST?'Jerusalém · século I':`Mártires até ${state.year}`;
   const groups=groupRecords();$('visible-count').textContent=`${state.visible.length.toLocaleString('pt-BR')} ${state.visible.length===1?'testemunho':'testemunhos'}`;
   const noMap=state.visible.filter(p=>!p.locations.some(l=>Number.isFinite(l.lat)&&Number.isFinite(l.lon))).length;
   $('visible-places').textContent=`${groups.length} ${groups.length===1?'lugar':'lugares'}${noMap?' · '+noMap+' sem coordenadas':''}`;
