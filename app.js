@@ -78,14 +78,44 @@ function renderPanel(){
 function pause(){if(state.timer)clearTimeout(state.timer);state.timer=null;$('play').setAttribute('aria-pressed','false');$('play').setAttribute('aria-label','Reproduzir linha do tempo');$('play').innerHTML='<svg viewBox="0 0 24 24" aria-hidden="true"><path d="m9 5 10 7-10 7Z"/></svg>';}
 function selectYear(year,{animate=true}={}){state.year=Math.max(FIRST,Math.min(LAST,Math.round(Number(year)||FIRST)));state.place=null;state.selected=state.year===FIRST?'Q161775':null;update({animate});}
 function nextYear(){return state.years.find(y=>y>state.year);}
-function play(){if(state.timer){pause();return;}if(!nextYear())selectYear(FIRST);$('play').setAttribute('aria-pressed','true');$('play').setAttribute('aria-label','Pausar linha do tempo');$('play').innerHTML='<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 5v14M15 5v14"/></svg>';const step=()=>{const y=nextYear();if(!y){pause();return;}selectYear(y);state.timer=setTimeout(step,Number($('speed').value));};state.timer=setTimeout(step,Number($('speed').value));}
+const speed = $('speed');
+const customSpeed = $('custom-speed');
+let customMultiplier = customSpeed.valueAsNumber;
+function playbackDelay() {
+  const multiplier = speed.value === 'custom' ? customMultiplier : Number(speed.value);
+  return 2400 / multiplier;
+}
+function play(){if(state.timer){pause();return;}if(!nextYear())selectYear(FIRST);$('play').setAttribute('aria-pressed','true');$('play').setAttribute('aria-label','Pausar linha do tempo');$('play').innerHTML='<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 5v14M15 5v14"/></svg>';const step=()=>{const y=nextYear();if(!y){pause();return;}selectYear(y);state.timer=setTimeout(step,playbackDelay());};state.timer=setTimeout(step,playbackDelay());}
 $('play').onclick=play;
 $('next').onclick=()=>{pause();const y=nextYear();if(y)selectYear(y);};
 $('previous').onclick=()=>{pause();selectYear([...state.years].reverse().find(y=>y<state.year)??FIRST);};
 $('restart').onclick=()=>{pause();setFollow(true);for(const id of ['search','country','review'])$(id).value='';selectYear(FIRST);};
 $('year-range').addEventListener('input',()=>{pause();selectYear($('year-range').value,{animate:false});});
 $('year-number').addEventListener('change',()=>{pause();selectYear($('year-number').value);});
-$('speed').onchange=()=>{if(state.timer){pause();play();}};
+function reschedulePlayback() {
+  if (state.timer) {
+    pause();
+    play();
+  }
+}
+speed.onchange = () => {
+  const custom = speed.value === 'custom';
+  $('custom-speed-field').hidden = !custom;
+  if (custom) {
+    customSpeed.focus();
+    customSpeed.select();
+  }
+  reschedulePlayback();
+};
+customSpeed.oninput = () => {
+  if (customSpeed.validity.valid) {
+    customMultiplier = customSpeed.valueAsNumber;
+    reschedulePlayback();
+  }
+};
+customSpeed.onchange = () => {
+  customSpeed.value = customMultiplier;
+};
 for(const id of ['search','country','review'])$(id).addEventListener(id==='search'?'input':'change',()=>{pause();state.selected=null;state.place=null;update({animate:false});});
 $('reset-filters').onclick=()=>{for(const id of ['search','country','review'])$(id).value='';state.place=null;state.selected=null;update();};
 $('show-more').onclick=()=>{state.limit+=30;const scroll=$('sidebar').scrollTop;renderPanel();$('sidebar').scrollTop=scroll;};
