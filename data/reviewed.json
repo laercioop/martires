@@ -1,0 +1,539 @@
+[
+  {
+    "id": "Q42544",
+    "name": "Tomás More",
+    "status": "Santo(a)",
+    "reviewed": true,
+    "dates": [
+      {
+        "value": "1535-07-06",
+        "year": 1535,
+        "precision": 11
+      }
+    ],
+    "locations": [
+      {
+        "id": "editorial-Londres",
+        "name": "Londres",
+        "country": "Reino Unido",
+        "lat": 51.508,
+        "lon": -0.076
+      }
+    ],
+    "sources": [
+      {
+        "label": "Wikidata · dados e referências",
+        "url": "https://www.wikidata.org/wiki/Q42544"
+      },
+      {
+        "label": "Fonte católica de conferência",
+        "url": "https://press.vatican.va/jubilee_2000/jubilevents/jub_jubilparlgov_20001026_thomas-more_en.html"
+      }
+    ],
+    "note": "A biografia da Santa Sé informa sua execução em Londres, em 6 de julho de 1535. Coordenadas aproximadas da localidade; não indicam um ponto exato de execução."
+  },
+  {
+    "id": "Q293455",
+    "name": "Óscar Romero",
+    "status": "Santo(a)",
+    "reviewed": true,
+    "dates": [
+      {
+        "value": "1980-03-24",
+        "year": 1980,
+        "precision": 11
+      }
+    ],
+    "locations": [
+      {
+        "id": "editorial-San Salvador",
+        "name": "San Salvador",
+        "country": "El Salvador",
+        "lat": 13.6989,
+        "lon": -89.1914
+      }
+    ],
+    "sources": [
+      {
+        "label": "Wikidata · dados e referências",
+        "url": "https://www.wikidata.org/wiki/Q293455"
+      },
+      {
+        "label": "Fonte católica de conferência",
+        "url": "https://www.vaticannews.va/en/church/news/2020-03/oscar-romero-forty-years-assassination-anniversary0.html"
+      }
+    ],
+    "note": "Arcebispo assassinado durante a celebração da missa. O Vatican News registra a data, o local e sua canonização. Coordenadas aproximadas da localidade; não indicam um ponto exato de execução."
+  },
+  {
+    "id": "Q76749",
+    "name": "Teresa Benedita da Cruz (Edith Stein)",
+    "status": "Santo(a)",
+    "reviewed": true,
+    "dates": [
+      {
+        "value": "1942-08-09",
+        "year": 1942,
+        "precision": 11
+      }
+    ],
+    "locations": [
+      {
+        "id": "editorial-Auschwitz-Birkenau",
+        "name": "Auschwitz-Birkenau",
+        "country": "Polônia",
+        "lat": 50.0359,
+        "lon": 19.1783
+      }
+    ],
+    "sources": [
+      {
+        "label": "Wikidata · dados e referências",
+        "url": "https://www.wikidata.org/wiki/Q76749"
+      },
+      {
+        "label": "Fonte católica de conferência",
+        "url": "https://www.vaticannews.va/en/church/news/2022-08/cardinal-czerny-edith-stein-a-woman-of-truth-and-love.html"
+      }
+    ],
+    "note": "Carmelita de origem judaica, assassinada durante a perseguição nazista. O Vatican News situa sua morte em Auschwitz-Birkenau em 9 de agosto de 1942. Coordenadas aproximadas da localidade; não indicam um ponto exato de execução."
+  },
+  {
+    "id": "Q153850",
+    "name": "Maximiliano Maria Kolbe",
+    "status": "Santo(a)",
+    "reviewed": true,
+    "dates": [
+      {
+        "value": "1941-08-14",
+        "year": 1941,
+        "precision": 11
+      }
+    ],
+    "locations": [
+      {
+        "id": "editorial-Auschwitz",
+        "name": "Auschwitz",
+        "country": "Polônia",
+        "lat": 50.027,
+        "lon": 19.203
+      }
+    ],
+    "sources": [
+      {
+        "label": "Wikidata · dados e referências",
+        "url": "https://www.wikidata.org/wiki/Q153850"
+      },
+      {
+        "label": "Fonte católica de conferência",
+        "url": "https://www.vatican.va/content/john-paul-ii/en/speeches/1979/february/documents/hf_jp-ii_spe_19790218_magliana.html"
+      }
+    ],
+    "note": "Franciscano morto no campo de concentração de Auschwitz. O discurso de João Paulo II informa a data de sua morte. Coordenadas aproximadas da localidade; não indicam um ponto exato de execução."
+  },
+  {
+    "id": "Q9154163",
+    "name": "André de Soveral",
+    "status": "Santo(a)",
+    "reviewed": true,
+    "dates": [
+      {
+        "value": "1645-07-16",
+        "year": 1645,
+        "precision": 11
+      }
+    ],
+    "locations": [
+      {
+        "id": "editorial-Cunhaú, Canguaretama (RN)",
+        "name": "Cunhaú, Canguaretama (RN)",
+        "country": "Brasil",
+        "lat": -6.37,
+        "lon": -35.13
+      }
+    ],
+    "sources": [
+      {
+        "label": "Wikidata · dados e referências",
+        "url": "https://www.wikidata.org/wiki/Q9154163"
+      },
+      {
+        "label": "Fonte católica de conferência",
+        "url": "https://www.vatican.va/news_services/liturgy/libretti/2017/20171015-libretto-canonizzazione.pdf"
+      }
+    ],
+    "note": "O livreto da canonização de 2017 identifica André de Soveral e Domingos Carvalho no episódio de Cunhaú. A data é a do martírio, distinta da memória litúrgica coletiva. Coordenadas aproximadas da localidade; não indicam um ponto exato de execução."
+  },
+  {
+    "id": "Q9149855",
+    "name": "Ambrósio Francisco Ferro",
+    "status": "Santo(a)",
+    "reviewed": true,
+    "dates": [
+      {
+        "value": "1645-10-03",
+        "year": 1645,
+        "precision": 11
+      }
+    ],
+    "locations": [
+      {
+        "id": "editorial-Uruaçu, São Gonçalo do Amarante (RN)",
+        "name": "Uruaçu, São Gonçalo do Amarante (RN)",
+        "country": "Brasil",
+        "lat": -5.82,
+        "lon": -35.39
+      }
+    ],
+    "sources": [
+      {
+        "label": "Wikidata · dados e referências",
+        "url": "https://www.wikidata.org/wiki/Q9149855"
+      },
+      {
+        "label": "Fonte católica de conferência",
+        "url": "https://www.vatican.va/news_services/liturgy/libretti/2017/20171015-libretto-canonizzazione.pdf"
+      }
+    ],
+    "note": "O livreto da canonização de 2017 identifica o sacerdote entre os mártires de Uruaçu. Este registro representa uma pessoa, não todo o grupo. Coordenadas aproximadas da localidade; não indicam um ponto exato de execução."
+  },
+  {
+    "id": "Q10327335",
+    "name": "Mateus Moreira",
+    "status": "Santo(a)",
+    "reviewed": true,
+    "dates": [
+      {
+        "value": "1645-10-03",
+        "year": 1645,
+        "precision": 11
+      }
+    ],
+    "locations": [
+      {
+        "id": "editorial-Uruaçu, São Gonçalo do Amarante (RN)",
+        "name": "Uruaçu, São Gonçalo do Amarante (RN)",
+        "country": "Brasil",
+        "lat": -5.82,
+        "lon": -35.39
+      }
+    ],
+    "sources": [
+      {
+        "label": "Wikidata · dados e referências",
+        "url": "https://www.wikidata.org/wiki/Q10327335"
+      },
+      {
+        "label": "Fonte católica de conferência",
+        "url": "https://www.vatican.va/news_services/liturgy/libretti/2017/20171015-libretto-canonizzazione.pdf"
+      }
+    ],
+    "note": "Leigo identificado no livreto da canonização de 2017 entre os mártires de Uruaçu. Este registro representa uma pessoa, não todo o grupo. Coordenadas aproximadas da localidade; não indicam um ponto exato de execução."
+  },
+  {
+    "id": "Q560121",
+    "name": "Carlos Lwanga",
+    "status": "Santo(a)",
+    "reviewed": true,
+    "dates": [
+      {
+        "value": "1886-06-03",
+        "year": 1886,
+        "precision": 11
+      }
+    ],
+    "locations": [
+      {
+        "id": "editorial-Namugongo",
+        "name": "Namugongo",
+        "country": "Uganda",
+        "lat": 0.395,
+        "lon": 32.669
+      }
+    ],
+    "sources": [
+      {
+        "label": "Wikidata · dados e referências",
+        "url": "https://www.wikidata.org/wiki/Q560121"
+      },
+      {
+        "label": "Fonte católica de conferência",
+        "url": "https://archdiocese.nswanjereseminary.ac.ug/about-us/the-uganda-martyrs/basilicas/"
+      }
+    ],
+    "note": "A arquidiocese de Kampala situa o martírio em Namugongo, em 3 de junho de 1886. O registro individual não representa o total dos mártires de Uganda. Coordenadas aproximadas da localidade; não indicam um ponto exato de execução."
+  },
+  {
+    "id": "Q935759",
+    "name": "Perpétua",
+    "status": "Santo(a)",
+    "reviewed": true,
+    "dates": [
+      {
+        "value": "0203-03-07",
+        "year": 203,
+        "precision": 11
+      }
+    ],
+    "locations": [
+      {
+        "id": "editorial-Cartago",
+        "name": "Cartago",
+        "country": "Tunísia",
+        "lat": 36.853,
+        "lon": 10.323
+      }
+    ],
+    "sources": [
+      {
+        "label": "Wikidata · dados e referências",
+        "url": "https://www.wikidata.org/wiki/Q935759"
+      },
+      {
+        "label": "Fonte católica de conferência",
+        "url": "https://www.newadvent.org/cathen/06029a.htm"
+      }
+    ],
+    "note": "A Catholic Encyclopedia situa o martírio em Cartago em 7 de março de 203. Trata-se de mártir da Igreja antiga, venerada na tradição católica. Coordenadas aproximadas da localidade; não indicam um ponto exato de execução."
+  },
+  {
+    "id": "Q11697793",
+    "name": "Felicidade de Cartago",
+    "status": "Santo(a)",
+    "reviewed": true,
+    "dates": [
+      {
+        "value": "0203-03-07",
+        "year": 203,
+        "precision": 11
+      }
+    ],
+    "locations": [
+      {
+        "id": "editorial-Cartago",
+        "name": "Cartago",
+        "country": "Tunísia",
+        "lat": 36.853,
+        "lon": 10.323
+      }
+    ],
+    "sources": [
+      {
+        "label": "Wikidata · dados e referências",
+        "url": "https://www.wikidata.org/wiki/Q11697793"
+      },
+      {
+        "label": "Fonte católica de conferência",
+        "url": "https://www.newadvent.org/cathen/06029a.htm"
+      }
+    ],
+    "note": "A Catholic Encyclopedia situa o martírio com Perpétua em Cartago em 7 de março de 203. A ficha representa uma pessoa; não soma novamente o grupo. Coordenadas aproximadas da localidade; não indicam um ponto exato de execução."
+  },
+  {
+    "id": "Q380649",
+    "name": "Paulo Miki",
+    "status": "Santo(a)",
+    "reviewed": true,
+    "dates": [
+      {
+        "value": "1597-02-05",
+        "year": 1597,
+        "precision": 11
+      }
+    ],
+    "locations": [
+      {
+        "id": "editorial-Nagasaki",
+        "name": "Nagasaki",
+        "country": "Japão",
+        "lat": 32.75,
+        "lon": 129.877
+      }
+    ],
+    "sources": [
+      {
+        "label": "Wikidata · dados e referências",
+        "url": "https://www.wikidata.org/wiki/Q380649"
+      },
+      {
+        "label": "Fonte católica de conferência",
+        "url": "https://press.vatican.va/content/salastampa/it/bollettino/pubblico/2019/11/24/0917/01858.pdf"
+      }
+    ],
+    "note": "O discurso papal em Nagasaki registra 5 de fevereiro de 1597. A memória litúrgica é celebrada em 6 de fevereiro; não usamos a festa como data da morte. Coordenadas aproximadas da localidade; não indicam um ponto exato de execução."
+  },
+  {
+    "id": "Q161775",
+    "name": "Santo Estêvão",
+    "status": "Santo(a)",
+    "reviewed": true,
+    "approximate": true,
+    "dates": [
+      {
+        "value": "0036-01-01",
+        "year": 36,
+        "precision": 9
+      }
+    ],
+    "locations": [
+      {
+        "id": "editorial-jerusalem",
+        "name": "Jerusalém",
+        "country": "Jerusalém",
+        "lat": 31.787,
+        "lon": 35.229
+      }
+    ],
+    "sources": [
+      {
+        "label": "Santa Sé · o martírio e a tradição do lugar",
+        "url": "https://www.vatican.va/content/benedict-xvi/en/audiences/2007/documents/hf_ben-xvi_aud_20070110.html"
+      },
+      {
+        "label": "Getty · data aproximada (c. 36)",
+        "url": "https://www.getty.edu/cona/CONAIconographyRecord.aspx?iconid=901001070"
+      },
+      {
+        "label": "Wikidata · referências",
+        "url": "https://www.wikidata.org/wiki/Q161775"
+      }
+    ],
+    "note": "Reconhecido como o primeiro mártir cristão. O ano é aproximado (c. 36), não uma data historicamente exata. A Santa Sé descreve a tradição que situa o martírio ao norte da Porta de Damasco. O ponto no mapa indica essa área tradicional, não um local arqueologicamente comprovado. Jerusalém é apresentada pelo nome da cidade, sem atribuição de soberania."
+  },
+  {
+    "id": "Q43999",
+    "name": "São Tiago Maior",
+    "status": "Santo(a)",
+    "reviewed": true,
+    "approximate": true,
+    "dates": [
+      {
+        "value": "0044-01-01",
+        "year": 44,
+        "precision": 9
+      }
+    ],
+    "locations": [
+      {
+        "id": "editorial-Jerusalém",
+        "name": "Jerusalém",
+        "country": "Jerusalém",
+        "lat": 31.787,
+        "lon": 35.229
+      }
+    ],
+    "sources": [
+      {
+        "label": "Fonte de conferência",
+        "url": "https://mcgrath.nd.edu/assets/84232/WCT32.pdf"
+      },
+      {
+        "label": "Wikidata · referências",
+        "url": "https://www.wikidata.org/wiki/Q43999"
+      }
+    ],
+    "note": "Apóstolo martirizado em Jerusalém. O ano 44 é uma referência histórica aproximada. A fonte acadêmica disponibilizada pela Universidade de Notre Dame registra a cronologia e o local. A coordenada representa a cidade, não o lugar exato da execução."
+  },
+  {
+    "id": "Q33923",
+    "name": "São Pedro",
+    "status": "Santo(a)",
+    "reviewed": true,
+    "approximate": true,
+    "dates": [
+      {
+        "value": "0067-01-01",
+        "year": 67,
+        "precision": 9
+      }
+    ],
+    "locations": [
+      {
+        "id": "editorial-Roma",
+        "name": "Roma",
+        "country": "Itália",
+        "lat": 41.9,
+        "lon": 12.48
+      }
+    ],
+    "sources": [
+      {
+        "label": "Fonte de conferência",
+        "url": "https://www.vaticannews.va/en/saints/06/29/saint-paul--apostle-of-the-city-of-rome.html"
+      },
+      {
+        "label": "Wikidata · referências",
+        "url": "https://www.wikidata.org/wiki/Q33923"
+      }
+    ],
+    "note": "Apóstolo martirizado em Roma sob Nero. Usamos c. 67 como referência tradicional citada pelo Vatican News. A cronologia é debatida; não atribuímos dia ou mês exato à morte. A coordenada representa a cidade, não o lugar exato da execução."
+  },
+  {
+    "id": "Q9200",
+    "name": "São Paulo",
+    "status": "Santo(a)",
+    "reviewed": true,
+    "approximate": true,
+    "dates": [
+      {
+        "value": "0067-01-01",
+        "year": 67,
+        "precision": 9
+      }
+    ],
+    "locations": [
+      {
+        "id": "editorial-Roma",
+        "name": "Roma",
+        "country": "Itália",
+        "lat": 41.9,
+        "lon": 12.48
+      }
+    ],
+    "sources": [
+      {
+        "label": "Fonte de conferência",
+        "url": "https://www.vaticannews.va/en/saints/06/29/saint-paul--apostle-of-the-city-of-rome.html"
+      },
+      {
+        "label": "Wikidata · referências",
+        "url": "https://www.wikidata.org/wiki/Q9200"
+      }
+    ],
+    "note": "Apóstolo martirizado em Roma sob Nero. Usamos c. 67 como referência tradicional citada pelo Vatican News. A cronologia é debatida; não usamos a festa de 29 de junho como data exata da morte. A coordenada representa a cidade, não o lugar exato da execução."
+  },
+  {
+    "id": "Q44170",
+    "name": "Santo Inácio de Antioquia",
+    "status": "Santo(a)",
+    "reviewed": true,
+    "approximate": true,
+    "dates": [
+      {
+        "value": "0107-01-01",
+        "year": 107,
+        "precision": 9
+      }
+    ],
+    "locations": [
+      {
+        "id": "editorial-Roma",
+        "name": "Roma",
+        "country": "Itália",
+        "lat": 41.9,
+        "lon": 12.48
+      }
+    ],
+    "sources": [
+      {
+        "label": "Fonte de conferência",
+        "url": "https://www.vatican.va/content/benedict-xvi/en/audiences/2007/documents/hf_ben-xvi_aud_20070314.html"
+      },
+      {
+        "label": "Wikidata · referências",
+        "url": "https://www.wikidata.org/wiki/Q44170"
+      }
+    ],
+    "note": "Bispo de Antioquia conduzido a Roma para o martírio. A audiência de Bento XVI registra o ano 107. Tratamos o ano como aproximado, pois a cronologia antiga é objeto de debate. A coordenada representa a cidade, não o lugar exato da execução."
+  }
+]

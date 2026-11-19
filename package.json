@@ -1,0 +1,11 @@
+{
+  "name": "martires",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Atlas histórico de mártires católicos com mapa e linha do tempo",
+  "scripts": {
+    "dev": "python -m http.server 4173 --bind 127.0.0.1",
+    "check": "node --check app.js && python scripts/validate.py",
+    "data:update": "python scripts/import-wikidata.py"
+  }
+}

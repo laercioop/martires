@@ -1,0 +1,31 @@
+# Catholic saints and blesseds with an explicit martyr indication.
+# P411 is canonization status; Q3464126 is Catholic saint.
+SELECT DISTINCT ?person ?personLabel ?personDescription ?status ?death ?precision ?place ?placeLabel ?coord ?countryLabel WHERE {
+  {
+    VALUES ?status { wd:Q3464126 wd:Q2369287 }
+    ?person wdt:P411 ?status.
+  } UNION {
+    ?person wdt:P411 ?status; wdt:P140 ?religion.
+    VALUES ?status { wd:Q123110154 wd:Q43115 }
+    VALUES ?religion { wd:Q1841 wd:Q9592 }
+  }
+  ?person p:P570/psv:P570 ?dateNode.
+  ?dateNode wikibase:timeValue ?death; wikibase:timePrecision ?precision.
+  {
+    ?person wdt:P509 wd:Q46999986.
+  } UNION {
+    ?person wdt:P31/wdt:P279* wd:Q107013.
+  } UNION {
+    ?person wdt:P106/wdt:P279* wd:Q107013.
+  } UNION {
+    ?person schema:description ?description.
+    FILTER(LANG(?description) = "en")
+    FILTER(CONTAINS(LCASE(?description), "martyr"))
+  }
+  OPTIONAL {
+    ?person wdt:P20 ?place.
+    OPTIONAL { ?place wdt:P625 ?coord. }
+    OPTIONAL { ?place wdt:P17 ?country. }
+  }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "pt,en". }
+}

@@ -1,0 +1,384 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-11-19T21:10:23.951130+00:00",
+  "title": "Design System: Mártires",
+  "extensions": {
+    "colorMeta": {
+      "ink": {
+        "role": "neutral",
+        "displayName": "Tinta azul esverdeada",
+        "tonalRamp": [
+          "oklch(15% 0.0150 229.2)",
+          "oklch(27% 0.0300 229.2)",
+          "oklch(39% 0.0383 229.2)",
+          "oklch(51% 0.0383 229.2)",
+          "oklch(63% 0.0383 229.2)",
+          "oklch(75% 0.0383 229.2)",
+          "oklch(87% 0.0200 229.2)",
+          "oklch(95% 0.0080 229.2)"
+        ]
+      },
+      "muted": {
+        "role": "neutral",
+        "displayName": "Ardósia suave",
+        "tonalRamp": [
+          "oklch(15% 0.0150 227.6)",
+          "oklch(27% 0.0300 227.6)",
+          "oklch(39% 0.0333 227.6)",
+          "oklch(51% 0.0333 227.6)",
+          "oklch(63% 0.0333 227.6)",
+          "oklch(75% 0.0333 227.6)",
+          "oklch(87% 0.0200 227.6)",
+          "oklch(95% 0.0080 227.6)"
+        ]
+      },
+      "line": {
+        "role": "neutral",
+        "displayName": "line",
+        "tonalRamp": [
+          "oklch(15% 0.0137 226.6)",
+          "oklch(27% 0.0137 226.6)",
+          "oklch(39% 0.0137 226.6)",
+          "oklch(51% 0.0137 226.6)",
+          "oklch(63% 0.0137 226.6)",
+          "oklch(75% 0.0137 226.6)",
+          "oklch(87% 0.0137 226.6)",
+          "oklch(95% 0.0080 226.6)"
+        ]
+      },
+      "paper": {
+        "role": "neutral",
+        "displayName": "Papel frio",
+        "tonalRamp": [
+          "oklch(15% 0.0011 197.1)",
+          "oklch(27% 0.0011 197.1)",
+          "oklch(39% 0.0011 197.1)",
+          "oklch(51% 0.0011 197.1)",
+          "oklch(63% 0.0011 197.1)",
+          "oklch(75% 0.0011 197.1)",
+          "oklch(87% 0.0011 197.1)",
+          "oklch(95% 0.0011 197.1)"
+        ]
+      },
+      "blue": {
+        "role": "secondary",
+        "displayName": "Azul de repouso",
+        "tonalRamp": [
+          "oklch(15% 0.0095 222.1)",
+          "oklch(27% 0.0095 222.1)",
+          "oklch(39% 0.0095 222.1)",
+          "oklch(51% 0.0095 222.1)",
+          "oklch(63% 0.0095 222.1)",
+          "oklch(75% 0.0095 222.1)",
+          "oklch(87% 0.0095 222.1)",
+          "oklch(95% 0.0080 222.1)"
+        ]
+      },
+      "accent": {
+        "role": "primary",
+        "displayName": "Vinho da memória",
+        "tonalRamp": [
+          "oklch(15% 0.0150 8.4)",
+          "oklch(27% 0.0300 8.4)",
+          "oklch(39% 0.0450 8.4)",
+          "oklch(51% 0.0550 8.4)",
+          "oklch(63% 0.0550 8.4)",
+          "oklch(75% 0.0400 8.4)",
+          "oklch(87% 0.0200 8.4)",
+          "oklch(95% 0.0080 8.4)"
+        ]
+      },
+      "past-marker": {
+        "role": "secondary",
+        "displayName": "Azul dos testemunhos anteriores",
+        "tonalRamp": [
+          "oklch(15% 0.0150 230.3)",
+          "oklch(27% 0.0300 230.3)",
+          "oklch(39% 0.0450 230.3)",
+          "oklch(51% 0.0470 230.3)",
+          "oklch(63% 0.0470 230.3)",
+          "oklch(75% 0.0400 230.3)",
+          "oklch(87% 0.0200 230.3)",
+          "oklch(95% 0.0080 230.3)"
+        ]
+      },
+      "white": {
+        "role": "neutral",
+        "displayName": "white",
+        "tonalRamp": [
+          "oklch(15% 0.0000 89.9)",
+          "oklch(27% 0.0000 89.9)",
+          "oklch(39% 0.0000 89.9)",
+          "oklch(51% 0.0000 89.9)",
+          "oklch(63% 0.0000 89.9)",
+          "oklch(75% 0.0000 89.9)",
+          "oklch(87% 0.0000 89.9)",
+          "oklch(95% 0.0000 89.9)"
+        ]
+      },
+      "field-border": {
+        "role": "neutral",
+        "displayName": "field-border",
+        "tonalRamp": [
+          "oklch(15% 0.0150 230.7)",
+          "oklch(27% 0.0229 230.7)",
+          "oklch(39% 0.0229 230.7)",
+          "oklch(51% 0.0229 230.7)",
+          "oklch(63% 0.0229 230.7)",
+          "oklch(75% 0.0229 230.7)",
+          "oklch(87% 0.0200 230.7)",
+          "oklch(95% 0.0080 230.7)"
+        ]
+      },
+      "search-surface": {
+        "role": "neutral",
+        "displayName": "search-surface",
+        "tonalRamp": [
+          "oklch(15% 0.0060 223.5)",
+          "oklch(27% 0.0060 223.5)",
+          "oklch(39% 0.0060 223.5)",
+          "oklch(51% 0.0060 223.5)",
+          "oklch(63% 0.0060 223.5)",
+          "oklch(75% 0.0060 223.5)",
+          "oklch(87% 0.0060 223.5)",
+          "oklch(95% 0.0060 223.5)"
+        ]
+      },
+      "active-surface": {
+        "role": "neutral",
+        "displayName": "active-surface",
+        "tonalRamp": [
+          "oklch(15% 0.0125 358.8)",
+          "oklch(27% 0.0125 358.8)",
+          "oklch(39% 0.0125 358.8)",
+          "oklch(51% 0.0125 358.8)",
+          "oklch(63% 0.0125 358.8)",
+          "oklch(75% 0.0125 358.8)",
+          "oklch(87% 0.0125 358.8)",
+          "oklch(95% 0.0080 358.8)"
+        ]
+      },
+      "reviewed-surface": {
+        "role": "neutral",
+        "displayName": "reviewed-surface",
+        "tonalRamp": [
+          "oklch(15% 0.0133 159.9)",
+          "oklch(27% 0.0133 159.9)",
+          "oklch(39% 0.0133 159.9)",
+          "oklch(51% 0.0133 159.9)",
+          "oklch(63% 0.0133 159.9)",
+          "oklch(75% 0.0133 159.9)",
+          "oklch(87% 0.0133 159.9)",
+          "oklch(95% 0.0080 159.9)"
+        ]
+      },
+      "reviewed-text": {
+        "role": "neutral",
+        "displayName": "reviewed-text",
+        "tonalRamp": [
+          "oklch(15% 0.0150 157.6)",
+          "oklch(27% 0.0300 157.6)",
+          "oklch(39% 0.0450 157.6)",
+          "oklch(51% 0.0550 157.6)",
+          "oklch(63% 0.0550 157.6)",
+          "oklch(75% 0.0400 157.6)",
+          "oklch(87% 0.0200 157.6)",
+          "oklch(95% 0.0080 157.6)"
+        ]
+      },
+      "pending-surface": {
+        "role": "neutral",
+        "displayName": "pending-surface",
+        "tonalRamp": [
+          "oklch(15% 0.0059 239.8)",
+          "oklch(27% 0.0059 239.8)",
+          "oklch(39% 0.0059 239.8)",
+          "oklch(51% 0.0059 239.8)",
+          "oklch(63% 0.0059 239.8)",
+          "oklch(75% 0.0059 239.8)",
+          "oklch(87% 0.0059 239.8)",
+          "oklch(95% 0.0059 239.8)"
+        ]
+      },
+      "pending-text": {
+        "role": "neutral",
+        "displayName": "pending-text",
+        "tonalRamp": [
+          "oklch(15% 0.0150 228.8)",
+          "oklch(27% 0.0300 228.8)",
+          "oklch(39% 0.0328 228.8)",
+          "oklch(51% 0.0328 228.8)",
+          "oklch(63% 0.0328 228.8)",
+          "oklch(75% 0.0328 228.8)",
+          "oklch(87% 0.0200 228.8)",
+          "oklch(95% 0.0080 228.8)"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "headline": {
+        "displayName": "Título narrativo",
+        "purpose": "Cena sobre o mapa."
+      },
+      "title": {
+        "displayName": "Título de ficha",
+        "purpose": "Identidade do testemunho."
+      },
+      "body": {
+        "displayName": "Texto de leitura",
+        "purpose": "Fichas e explicações."
+      },
+      "label": {
+        "displayName": "Rótulo",
+        "purpose": "Anos e controles compactos."
+      }
+    },
+    "shadows": [
+      {
+        "name": "scene",
+        "value": "0 5px 22px #203b4714",
+        "purpose": "Separar narrativa da cartografia."
+      },
+      {
+        "name": "tools",
+        "value": "0 3px 12px #203b471a",
+        "purpose": "Unificar ferramentas."
+      },
+      {
+        "name": "sidebar",
+        "value": "6px 0 22px #213b4715",
+        "purpose": "Separar navegação."
+      },
+      {
+        "name": "timeline",
+        "value": "0 -3px 22px #213b470a",
+        "purpose": "Separar eixo temporal."
+      },
+      {
+        "name": "marker",
+        "value": "0 2px 6px #213b4730",
+        "purpose": "Legibilidade do ponto."
+      }
+    ],
+    "motion": [
+      {
+        "name": "panel-state",
+        "value": "0.25s ease-out",
+        "purpose": "Opacidade e deslocamento da cena e legenda."
+      },
+      {
+        "name": "marker-state",
+        "value": "0.2s ease-out",
+        "purpose": "Cor dos marcadores."
+      },
+      {
+        "name": "camera",
+        "value": "1.1s",
+        "purpose": "Expansão para limites acumulados; desativada com movimento reduzido."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "compact-phone",
+        "value": "430px"
+      },
+      {
+        "name": "mobile",
+        "value": "760px"
+      },
+      {
+        "name": "wide",
+        "value": "1600px"
+      },
+      {
+        "name": "short-desktop",
+        "value": "(max-height:620px) and (min-width:761px)"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Botão",
+      "kind": "button",
+      "description": "Controle comum do atlas.",
+      "html": "<button class=\"ds-button\">Mostrar mais registros</button>",
+      "css": ".ds-button{font-family:var(--font,'Source Sans 3',sans-serif);color:var(--ink,#213b47);background:var(--paper,#fcfdfd);border:1px solid var(--line,#d3dee3);border-radius:5px;padding:.5rem .8rem;font-weight:600;cursor:pointer}.ds-button:hover{background:var(--blue,#e8f0f3)}.ds-button:focus-visible{outline:3px solid var(--accent,#933c50);outline-offset:4px}",
+      "refersTo": "button"
+    },
+    {
+      "name": "Reprodução",
+      "kind": "button",
+      "description": "Ação principal da linha do tempo.",
+      "html": "<button class=\"ds-play\" aria-label=\"Reproduzir\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"m9 5 10 7-10 7Z\"/></svg></button>",
+      "css": ".ds-play{display:flex;align-items:center;justify-content:center;width:44px;height:44px;border:0;border-radius:50%;padding:0;background:var(--ink,#213b47);color:white;cursor:pointer}.ds-play svg{width:20px;height:20px;fill:none;stroke:currentColor;stroke-width:1.7}.ds-play:hover{background:#355d70}.ds-play:focus-visible{outline:3px solid var(--accent,#933c50);outline-offset:4px}",
+      "refersTo": "play-button"
+    },
+    {
+      "name": "Pesquisa",
+      "kind": "input",
+      "description": "Busca na navegação lateral.",
+      "html": "<label class=\"ds-search\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><circle cx=\"10\" cy=\"10\" r=\"6\"/><path d=\"m15 15 5 5\"/></svg><input aria-label=\"Buscar testemunhos\" placeholder=\"Buscar por nome ou lugar\"></label>",
+      "css": ".ds-search{display:block;position:relative}.ds-search svg{position:absolute;left:.7rem;top:.8rem;width:18px;height:18px;fill:none;stroke:var(--ink,#213b47);stroke-width:1.7}.ds-search input{font-family:var(--font,'Source Sans 3',sans-serif);color:var(--ink,#213b47);width:100%;min-width:0;box-sizing:border-box;font-size:1rem;padding:.65rem .5rem .65rem 2.5rem;background:#f0f5f7;border:1px solid var(--line,#d3dee3);border-radius:4px;caret-color:var(--accent,#933c50)}.ds-search input:focus-visible{outline:3px solid var(--accent,#933c50);outline-offset:4px}",
+      "refersTo": "search-field"
+    },
+    {
+      "name": "Abas",
+      "kind": "nav",
+      "description": "Navegação textual do painel.",
+      "html": "<nav class=\"ds-tabs\"><button class=\"ds-tab ds-active\">Testemunhos</button><button class=\"ds-tab\">Fontes e método</button></nav>",
+      "css": ".ds-tabs{display:flex;gap:1rem}.ds-tab{font-family:var(--font,'Source Sans 3',sans-serif);color:var(--ink,#213b47);font-size:.95rem;font-weight:600;background:none;border:0;border-radius:0;padding:.4rem 0;color:var(--muted,#536b76);cursor:pointer}.ds-tab:hover{background:var(--blue,#e8f0f3)}.ds-tab.ds-active{color:var(--ink,#213b47);box-shadow:0 2px 0 var(--accent,#933c50)}.ds-tab:focus-visible{outline:3px solid var(--accent,#933c50);outline-offset:4px}"
+    },
+    {
+      "name": "Cena narrativa",
+      "kind": "card",
+      "description": "Placa narrativa sobre o mapa.",
+      "html": "<article class=\"ds-scene\"><h2>Onde a memória começa.</h2><p>Santo Estêvão, o primeiro mártir cristão.</p><button>Conhecer este testemunho</button></article>",
+      "css": ".ds-scene{font-family:var(--font,'Source Sans 3',sans-serif);color:var(--ink,#213b47);max-width:330px;background:#fcfdfdf5;padding:1.4rem 1.6rem 1.2rem;border-radius:6px;box-shadow:0 5px 22px #203b4714}.ds-scene h2{font-family:var(--display,\"Libre Baskerville\",Georgia,serif);font-size:1.7rem;font-weight:400;line-height:1.4;letter-spacing:-.025em;margin:0}.ds-scene p{color:var(--muted,#536b76);font-size:.95rem;line-height:1.6}.ds-scene button{font-family:var(--font,'Source Sans 3',sans-serif);color:var(--ink,#213b47);font-size:.9rem;font-weight:600;background:none;border:0;border-top:1px solid var(--line,#d3dee3);padding:.9rem 0 0;width:100%;text-align:left;cursor:pointer}.ds-scene button:hover{color:var(--accent,#933c50)}.ds-scene button:focus-visible{outline:3px solid var(--accent,#933c50);outline-offset:4px}",
+      "refersTo": "scene"
+    },
+    {
+      "name": "Estado de conferência",
+      "kind": "chip",
+      "description": "Estado editorial, sem ação.",
+      "html": "<span class=\"ds-badge\">Conferido em fonte católica</span><span class=\"ds-badge ds-pending\">Wikidata · aguarda conferência</span>",
+      "css": ".ds-badge{font-family:var(--font,'Source Sans 3',sans-serif);color:var(--ink,#213b47);display:inline-block;background:#e4eee8;color:#365c46;font-size:.75rem;border-radius:3px;padding:.25rem .4rem;margin:.25rem}.ds-badge.ds-pending{background:#edf1f4;color:#4b626d}",
+      "refersTo": "reviewed-badge"
+    },
+    {
+      "name": "Marcadores",
+      "kind": "custom",
+      "description": "Estados anterior e atual.",
+      "html": "<div class=\"ds-markers\"><button class=\"ds-marker\" aria-label=\"Registro anterior\">✝</button><button class=\"ds-marker ds-current\" aria-label=\"Registro atual\">✝</button></div>",
+      "css": ".ds-markers{display:flex;gap:20px;align-items:center;padding:10px}.ds-marker{font-family:var(--font,'Source Sans 3',sans-serif);color:var(--ink,#213b47);display:flex;align-items:center;justify-content:center;background:#537586;color:white;border:2px solid white;border-radius:50%;min-width:22px;height:22px;padding:0 4px;font-size:.75rem;box-shadow:0 2px 6px #213b4730;transition:background .2s ease-out;cursor:pointer}.ds-marker.ds-current{background:var(--accent,#933c50);min-width:30px;height:30px}.ds-marker:hover{background:#4b2237}.ds-marker:focus-visible{outline:3px solid #152c38;outline-offset:4px}"
+    }
+  ],
+  "narrative": {
+    "northStar": "O atlas da memória",
+    "overview": "A cartografia ocupa o centro da experiência. A moldura azul esverdeada escura, as superfícies claras e a cor de vinho orientam a exploração sem competir com os lugares e os testemunhos. A atmosfera é sóbria, documental e contemplativa.\n\nA tipografia serifada dá voz aos nomes e à narrativa; os controles usam uma sans-serif legível e compacta. Painéis pequenos e camadas discretas mantêm o mapa visível, enquanto a linha do tempo oferece um eixo contínuo para a leitura histórica.",
+    "keyCharacteristics": [
+      "Mapa como superfície principal.",
+      "Narrativa serifada e controles sans-serif.",
+      "Vinho para o momento atual; azul para os anos anteriores.",
+      "Camadas claras, contornos finos e sombras discretas."
+    ],
+    "rules": [
+      {
+        "name": "The Temporal Color Rule",
+        "body": "Reserve a cor de vinho para o ano atual, a posição na linha do tempo, a seleção e os estados de interação; preserve o azul dos registros anteriores.",
+        "section": "colors"
+      }
+    ],
+    "dos": [
+      "Do manter os controles em Source Sans 3 e os títulos narrativos em Libre Baskerville.",
+      "Do preservar a distinção entre registros do ano atual e registros acumulados.",
+      "Do manter a linha do tempo acessível na base da janela em todas as larguras.",
+      "Do conservar indicação textual para o estado de conferência das fontes."
+    ],
+    "donts": [
+      "Don't usar a cor de vinho como preenchimento genérico de grandes superfícies.",
+      "Don't transformar a navegação lateral em uma grade de cartões decorativos.",
+      "Don't ocultar os créditos cartográficos ou a indicação de revisão dos dados.",
+      "Don't impor movimento quando a preferência por movimento reduzido estiver ativa."
+    ]
+  }
+}
