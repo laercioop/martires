@@ -35,7 +35,7 @@ function update({camera=true,animate=true}={}){
   $('year-range').setAttribute('aria-valuetext',`${state.year===FIRST?'Cerca de ':''}${state.year}, ${state.visible.length} registros acumulados`);
   $('approx-label').hidden=state.year!==FIRST;$('century-label').textContent=`Século ${roman(Math.ceil(state.year/100))}`;
   $('header-period').textContent=state.year===FIRST?'Jerusalém · século I':`Mártires até ${state.year}`;
-  const groups=groupRecords();$('visible-count').textContent=`${state.visible.length.toLocaleString('pt-BR')} ${state.visible.length===1?'testemunho':'testemunhos'}`;
+  const groups=groupRecords();$('visible-count').textContent=`${state.visible.length.toLocaleString('pt-BR')} ${state.visible.length===1?'mártir':'mártires'}`;
   const noMap=state.visible.filter(p=>!p.locations.some(l=>Number.isFinite(l.lat)&&Number.isFinite(l.lon))).length;
   $('visible-places').textContent=`${groups.length} ${groups.length===1?'lugar':'lugares'}${noMap?' · '+noMap+' sem coordenadas':''}`;
   $('previous').disabled=state.year<=FIRST;$('next').disabled=state.year>=state.years.at(-1);
