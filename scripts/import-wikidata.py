@@ -40,6 +40,29 @@ if overrides_path.exists():
             people[qid].update(patch)
         else:
             people[qid] = patch
+# Identity references add citations and localized labels without changing review status.
+identity = json.loads((ROOT / 'data/identity-references.json').read_text())
+registry_url = (
+    'https://github.com/CatholicOS/crmedr/blob/'
+    f'{identity["crmedrRevision"]}/data/persons_commemorated.json'
+)
+for qid, reference in identity['people'].items():
+    person = people.get(qid)
+    if person is None:
+        continue
+    if 'name' in reference and not person['reviewed']:
+        person['name'] = reference['name']
+        if 'nameSource' in reference:
+            person['sources'].append(dict(
+                label='Martirológio Romano em português · grafia do nome',
+                url=reference['nameSource'],
+            ))
+    if 'martyrologyLine' in reference:
+        person['sources'].append(dict(
+            label='Martirológio Romano · identificação no CRMEDR',
+            url=f'{registry_url}#L{reference["martyrologyLine"]}',
+        ))
+
 records = list(people.values())
 for p in records:
     p['dates'].sort(key=lambda d: d['value'])

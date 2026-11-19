@@ -1,0 +1,2761 @@
+{
+  "crmedrRevision": "b91e409d2db1a6cde7a5c60f070286b8de58031f",
+  "people": {
+    "Q100272960": {
+      "martyrologyLine": 15581
+    },
+    "Q100741656": {
+      "martyrologyLine": 15587
+    },
+    "Q10311121": {
+      "martyrologyLine": 11890
+    },
+    "Q10327070": {
+      "martyrologyLine": 11899
+    },
+    "Q10327335": {
+      "martyrologyLine": 11908
+    },
+    "Q10329903": {
+      "martyrologyLine": 11911
+    },
+    "Q104774148": {
+      "martyrologyLine": 15654
+    },
+    "Q1048336": {
+      "martyrologyLine": 4702
+    },
+    "Q1063022": {
+      "martyrologyLine": 4724
+    },
+    "Q106645946": {
+      "martyrologyLine": 15687
+    },
+    "Q107076198": {
+      "martyrologyLine": 15705
+    },
+    "Q107248669": {
+      "martyrologyLine": 15714
+    },
+    "Q10856080": {
+      "martyrologyLine": 11944
+    },
+    "Q1090015": {
+      "martyrologyLine": 4763
+    },
+    "Q1090021": {
+      "martyrologyLine": 4767
+    },
+    "Q1091381": {
+      "martyrologyLine": 4771
+    },
+    "Q1101954": {
+      "martyrologyLine": 4792
+    },
+    "Q11155191": {
+      "martyrologyLine": 11954
+    },
+    "Q111678894": {
+      "martyrologyLine": 15840
+    },
+    "Q112612929": {
+      "martyrologyLine": 15891
+    },
+    "Q11268815": {
+      "martyrologyLine": 11957
+    },
+    "Q112976524": {
+      "martyrologyLine": 15924
+    },
+    "Q1133720": {
+      "martyrologyLine": 4841
+    },
+    "Q1133736": {
+      "martyrologyLine": 4844
+    },
+    "Q1141647": {
+      "martyrologyLine": 4862
+    },
+    "Q114845": {
+      "martyrologyLine": 595
+    },
+    "Q1151286": {
+      "martyrologyLine": 4880
+    },
+    "Q1152723": {
+      "martyrologyLine": 4884
+    },
+    "Q115450922": {
+      "martyrologyLine": 16002
+    },
+    "Q116457750": {
+      "martyrologyLine": 16050
+    },
+    "Q11684592": {
+      "martyrologyLine": 11971
+    },
+    "Q11686417": {
+      "martyrologyLine": 11978
+    },
+    "Q11687378": {
+      "martyrologyLine": 11982
+    },
+    "Q11692706": {
+      "martyrologyLine": 11998
+    },
+    "Q11694777": {
+      "name": "Domingos Henares",
+      "martyrologyLine": 12006,
+      "nameSource": "https://liturgia.pt/martirologio/pdf/Martirologio_ind.pdf"
+    },
+    "Q11696789": {
+      "martyrologyLine": 12036
+    },
+    "Q11697793": {
+      "martyrologyLine": 12042
+    },
+    "Q11698657": {
+      "martyrologyLine": 12052
+    },
+    "Q11717202": {
+      "martyrologyLine": 12112
+    },
+    "Q11717203": {
+      "martyrologyLine": 12116
+    },
+    "Q11717561": {
+      "martyrologyLine": 12154
+    },
+    "Q11718611": {
+      "martyrologyLine": 12172
+    },
+    "Q11718700": {
+      "martyrologyLine": 12179
+    },
+    "Q11719335": {
+      "martyrologyLine": 12182
+    },
+    "Q11719619": {
+      "martyrologyLine": 12185
+    },
+    "Q11727172": {
+      "martyrologyLine": 12193
+    },
+    "Q11728956": {
+      "martyrologyLine": 12199
+    },
+    "Q11730022": {
+      "martyrologyLine": 12210
+    },
+    "Q11730030": {
+      "martyrologyLine": 12213
+    },
+    "Q11730259": {
+      "martyrologyLine": 12227
+    },
+    "Q11730334": {
+      "martyrologyLine": 12230
+    },
+    "Q11730368": {
+      "martyrologyLine": 12234
+    },
+    "Q11730386": {
+      "martyrologyLine": 12238
+    },
+    "Q11730900": {
+      "martyrologyLine": 12249
+    },
+    "Q11730902": {
+      "martyrologyLine": 12252
+    },
+    "Q11730916": {
+      "martyrologyLine": 12258
+    },
+    "Q11731034": {
+      "martyrologyLine": 12266
+    },
+    "Q11731130": {
+      "martyrologyLine": 12274
+    },
+    "Q11731134": {
+      "martyrologyLine": 12277
+    },
+    "Q11731236": {
+      "martyrologyLine": 12287
+    },
+    "Q11731542": {
+      "martyrologyLine": 12293
+    },
+    "Q11731555": {
+      "martyrologyLine": 12301
+    },
+    "Q11735991": {
+      "martyrologyLine": 12334
+    },
+    "Q11736175": {
+      "martyrologyLine": 12347
+    },
+    "Q11736716": {
+      "martyrologyLine": 12353
+    },
+    "Q11736935": {
+      "martyrologyLine": 12359
+    },
+    "Q11741361": {
+      "martyrologyLine": 12378
+    },
+    "Q1175222": {
+      "martyrologyLine": 4918
+    },
+    "Q11763738": {
+      "martyrologyLine": 12397
+    },
+    "Q11766038": {
+      "martyrologyLine": 12430
+    },
+    "Q11766085": {
+      "martyrologyLine": 12434
+    },
+    "Q11766122": {
+      "martyrologyLine": 12442
+    },
+    "Q11768071": {
+      "martyrologyLine": 12460
+    },
+    "Q11769018": {
+      "martyrologyLine": 12491
+    },
+    "Q11769076": {
+      "martyrologyLine": 12494
+    },
+    "Q11769195": {
+      "martyrologyLine": 12501
+    },
+    "Q11769242": {
+      "martyrologyLine": 12516
+    },
+    "Q11769243": {
+      "martyrologyLine": 12520
+    },
+    "Q11770581": {
+      "martyrologyLine": 12527
+    },
+    "Q11771379": {
+      "martyrologyLine": 12546
+    },
+    "Q117759": {
+      "martyrologyLine": 613
+    },
+    "Q11779053": {
+      "martyrologyLine": 12567
+    },
+    "Q11814094": {
+      "martyrologyLine": 12608
+    },
+    "Q11814229": {
+      "martyrologyLine": 12616
+    },
+    "Q11814286": {
+      "martyrologyLine": 12623
+    },
+    "Q11815721": {
+      "martyrologyLine": 12635
+    },
+    "Q11817362": {
+      "martyrologyLine": 12648
+    },
+    "Q11817363": {
+      "martyrologyLine": 12652
+    },
+    "Q11817380": {
+      "martyrologyLine": 12656
+    },
+    "Q11817765": {
+      "martyrologyLine": 12673
+    },
+    "Q11817873": {
+      "martyrologyLine": 12677
+    },
+    "Q11817878": {
+      "martyrologyLine": 12685
+    },
+    "Q11817879": {
+      "martyrologyLine": 12689
+    },
+    "Q11818086": {
+      "martyrologyLine": 12707
+    },
+    "Q11818184": {
+      "martyrologyLine": 12711
+    },
+    "Q11818202": {
+      "martyrologyLine": 12715
+    },
+    "Q11818269": {
+      "martyrologyLine": 12723
+    },
+    "Q11818270": {
+      "martyrologyLine": 12727
+    },
+    "Q11818271": {
+      "martyrologyLine": 12731
+    },
+    "Q11818324": {
+      "martyrologyLine": 12738
+    },
+    "Q11827906": {
+      "martyrologyLine": 12756
+    },
+    "Q119040": {
+      "martyrologyLine": 625
+    },
+    "Q11905296": {
+      "martyrologyLine": 12778
+    },
+    "Q11938199": {
+      "martyrologyLine": 12826
+    },
+    "Q122376": {
+      "martyrologyLine": 640
+    },
+    "Q12599521": {
+      "martyrologyLine": 12866
+    },
+    "Q1284685": {
+      "martyrologyLine": 5140
+    },
+    "Q1284971": {
+      "martyrologyLine": 5143
+    },
+    "Q1285954": {
+      "martyrologyLine": 5155
+    },
+    "Q12900859": {
+      "martyrologyLine": 12885
+    },
+    "Q1291016": {
+      "martyrologyLine": 5173
+    },
+    "Q13124708": {
+      "martyrologyLine": 12926
+    },
+    "Q13125269": {
+      "martyrologyLine": 12938
+    },
+    "Q1327697": {
+      "martyrologyLine": 5218
+    },
+    "Q1341927": {
+      "martyrologyLine": 5248
+    },
+    "Q1343984": {
+      "martyrologyLine": 5266,
+      "name": "Feliciano de Foligno",
+      "nameSource": "https://liturgia.pt/martirologio/pdf/Martirologio_ind.pdf"
+    },
+    "Q1380169": {
+      "martyrologyLine": 5386
+    },
+    "Q1407613": {
+      "martyrologyLine": 5485
+    },
+    "Q141433651": {
+      "martyrologyLine": 16572
+    },
+    "Q141882962": {
+      "martyrologyLine": 16608
+    },
+    "Q141882969": {
+      "martyrologyLine": 16614
+    },
+    "Q141882999": {
+      "martyrologyLine": 16635
+    },
+    "Q141883001": {
+      "martyrologyLine": 16638
+    },
+    "Q141883139": {
+      "martyrologyLine": 16641
+    },
+    "Q141883151": {
+      "martyrologyLine": 16668
+    },
+    "Q141883152": {
+      "martyrologyLine": 16671
+    },
+    "Q141883154": {
+      "martyrologyLine": 16674
+    },
+    "Q141883155": {
+      "martyrologyLine": 16677
+    },
+    "Q141883157": {
+      "martyrologyLine": 16680
+    },
+    "Q141883158": {
+      "martyrologyLine": 16683
+    },
+    "Q141883159": {
+      "martyrologyLine": 16686
+    },
+    "Q141883160": {
+      "martyrologyLine": 16689
+    },
+    "Q141883316": {
+      "martyrologyLine": 16692
+    },
+    "Q141883317": {
+      "martyrologyLine": 16695
+    },
+    "Q141883318": {
+      "martyrologyLine": 16698
+    },
+    "Q141883319": {
+      "martyrologyLine": 16701
+    },
+    "Q141883327": {
+      "martyrologyLine": 16719
+    },
+    "Q141886839": {
+      "martyrologyLine": 16800
+    },
+    "Q141886840": {
+      "martyrologyLine": 16803
+    },
+    "Q141886841": {
+      "martyrologyLine": 16806
+    },
+    "Q141886842": {
+      "martyrologyLine": 16809
+    },
+    "Q141886843": {
+      "martyrologyLine": 16812
+    },
+    "Q141886844": {
+      "martyrologyLine": 16815
+    },
+    "Q141886845": {
+      "martyrologyLine": 16818
+    },
+    "Q141886846": {
+      "martyrologyLine": 16821
+    },
+    "Q141886847": {
+      "martyrologyLine": 16824
+    },
+    "Q141886848": {
+      "martyrologyLine": 16827
+    },
+    "Q141886849": {
+      "martyrologyLine": 16830
+    },
+    "Q141886850": {
+      "martyrologyLine": 16833
+    },
+    "Q141886852": {
+      "martyrologyLine": 16836
+    },
+    "Q141886853": {
+      "martyrologyLine": 16839
+    },
+    "Q141886854": {
+      "martyrologyLine": 16842
+    },
+    "Q141886855": {
+      "martyrologyLine": 16845
+    },
+    "Q141886857": {
+      "martyrologyLine": 16848
+    },
+    "Q141886858": {
+      "martyrologyLine": 16851
+    },
+    "Q141886859": {
+      "martyrologyLine": 16854
+    },
+    "Q141886860": {
+      "martyrologyLine": 16857
+    },
+    "Q141886861": {
+      "martyrologyLine": 16860
+    },
+    "Q141886862": {
+      "martyrologyLine": 16863
+    },
+    "Q141886863": {
+      "martyrologyLine": 16866
+    },
+    "Q141886864": {
+      "martyrologyLine": 16869
+    },
+    "Q141886865": {
+      "martyrologyLine": 16872
+    },
+    "Q141886866": {
+      "martyrologyLine": 16875
+    },
+    "Q141892621": {
+      "martyrologyLine": 16896
+    },
+    "Q141893494": {
+      "martyrologyLine": 16899
+    },
+    "Q141893495": {
+      "martyrologyLine": 16902
+    },
+    "Q141893496": {
+      "martyrologyLine": 16905
+    },
+    "Q141894162": {
+      "martyrologyLine": 16908
+    },
+    "Q141894164": {
+      "martyrologyLine": 16911
+    },
+    "Q141902104": {
+      "martyrologyLine": 16983
+    },
+    "Q141936755": {
+      "martyrologyLine": 16986
+    },
+    "Q141937677": {
+      "martyrologyLine": 17076
+    },
+    "Q141937684": {
+      "martyrologyLine": 17094
+    },
+    "Q141937695": {
+      "martyrologyLine": 17127
+    },
+    "Q141938079": {
+      "martyrologyLine": 17280
+    },
+    "Q141938083": {
+      "martyrologyLine": 17292
+    },
+    "Q141938097": {
+      "martyrologyLine": 17334
+    },
+    "Q141938156": {
+      "martyrologyLine": 17493
+    },
+    "Q141938157": {
+      "martyrologyLine": 17496
+    },
+    "Q141938158": {
+      "martyrologyLine": 17499
+    },
+    "Q141938159": {
+      "martyrologyLine": 17502
+    },
+    "Q141938160": {
+      "martyrologyLine": 17505
+    },
+    "Q141938161": {
+      "martyrologyLine": 17508
+    },
+    "Q141938162": {
+      "martyrologyLine": 17511
+    },
+    "Q141938163": {
+      "martyrologyLine": 17514
+    },
+    "Q141938164": {
+      "martyrologyLine": 17517
+    },
+    "Q141938165": {
+      "martyrologyLine": 17520
+    },
+    "Q141938166": {
+      "martyrologyLine": 17523
+    },
+    "Q141938167": {
+      "martyrologyLine": 17526
+    },
+    "Q141938168": {
+      "martyrologyLine": 17529
+    },
+    "Q141938169": {
+      "martyrologyLine": 17532
+    },
+    "Q141938170": {
+      "martyrologyLine": 17535
+    },
+    "Q141938172": {
+      "martyrologyLine": 17538
+    },
+    "Q141938173": {
+      "martyrologyLine": 17541
+    },
+    "Q141938174": {
+      "martyrologyLine": 17544
+    },
+    "Q141938175": {
+      "martyrologyLine": 17547
+    },
+    "Q141938176": {
+      "martyrologyLine": 17550
+    },
+    "Q141938177": {
+      "martyrologyLine": 17553
+    },
+    "Q141938565": {
+      "martyrologyLine": 17619
+    },
+    "Q141938566": {
+      "martyrologyLine": 17622
+    },
+    "Q141938568": {
+      "martyrologyLine": 17625
+    },
+    "Q141938569": {
+      "martyrologyLine": 17628
+    },
+    "Q141938570": {
+      "martyrologyLine": 17631
+    },
+    "Q141938571": {
+      "martyrologyLine": 17634
+    },
+    "Q141938572": {
+      "martyrologyLine": 17637
+    },
+    "Q141938573": {
+      "martyrologyLine": 17640
+    },
+    "Q141938574": {
+      "martyrologyLine": 17643
+    },
+    "Q141938575": {
+      "martyrologyLine": 17646
+    },
+    "Q141938576": {
+      "martyrologyLine": 17649
+    },
+    "Q141941122": {
+      "martyrologyLine": 17832
+    },
+    "Q141941146": {
+      "martyrologyLine": 17871
+    },
+    "Q141941376": {
+      "martyrologyLine": 18051
+    },
+    "Q141943034": {
+      "martyrologyLine": 18120
+    },
+    "Q141943035": {
+      "martyrologyLine": 18123
+    },
+    "Q141943036": {
+      "martyrologyLine": 18126
+    },
+    "Q141943037": {
+      "martyrologyLine": 18129
+    },
+    "Q141943038": {
+      "martyrologyLine": 18132
+    },
+    "Q141943039": {
+      "martyrologyLine": 18135
+    },
+    "Q141943040": {
+      "martyrologyLine": 18138
+    },
+    "Q141943041": {
+      "martyrologyLine": 18141
+    },
+    "Q141943042": {
+      "martyrologyLine": 18144
+    },
+    "Q141943043": {
+      "martyrologyLine": 18147
+    },
+    "Q141943044": {
+      "martyrologyLine": 18150
+    },
+    "Q141943045": {
+      "martyrologyLine": 18153
+    },
+    "Q141943046": {
+      "martyrologyLine": 18156
+    },
+    "Q141943047": {
+      "martyrologyLine": 18159
+    },
+    "Q141943048": {
+      "martyrologyLine": 18162
+    },
+    "Q141943052": {
+      "martyrologyLine": 18174
+    },
+    "Q141943055": {
+      "martyrologyLine": 18183
+    },
+    "Q141943056": {
+      "martyrologyLine": 18186
+    },
+    "Q141943057": {
+      "martyrologyLine": 18189
+    },
+    "Q141943058": {
+      "martyrologyLine": 18192
+    },
+    "Q141943059": {
+      "martyrologyLine": 18195
+    },
+    "Q141943060": {
+      "martyrologyLine": 18198
+    },
+    "Q141943061": {
+      "martyrologyLine": 18201
+    },
+    "Q141943153": {
+      "martyrologyLine": 18288
+    },
+    "Q141943154": {
+      "martyrologyLine": 18291
+    },
+    "Q141943156": {
+      "martyrologyLine": 18294
+    },
+    "Q141943157": {
+      "martyrologyLine": 18297
+    },
+    "Q141943158": {
+      "martyrologyLine": 18300
+    },
+    "Q141943159": {
+      "martyrologyLine": 18303
+    },
+    "Q141943162": {
+      "martyrologyLine": 18312
+    },
+    "Q141943181": {
+      "martyrologyLine": 18371
+    },
+    "Q141943225": {
+      "martyrologyLine": 18500
+    },
+    "Q141943226": {
+      "martyrologyLine": 18503
+    },
+    "Q141943227": {
+      "martyrologyLine": 18506
+    },
+    "Q141943250": {
+      "martyrologyLine": 18575
+    },
+    "Q141943251": {
+      "martyrologyLine": 18578
+    },
+    "Q141943257": {
+      "martyrologyLine": 18596
+    },
+    "Q141943258": {
+      "martyrologyLine": 18599
+    },
+    "Q141943321": {
+      "martyrologyLine": 18614
+    },
+    "Q141943339": {
+      "martyrologyLine": 18656
+    },
+    "Q141943340": {
+      "martyrologyLine": 18659
+    },
+    "Q141943341": {
+      "martyrologyLine": 18662
+    },
+    "Q141943343": {
+      "martyrologyLine": 18665
+    },
+    "Q141943345": {
+      "martyrologyLine": 18671
+    },
+    "Q141943355": {
+      "martyrologyLine": 18695
+    },
+    "Q141943362": {
+      "martyrologyLine": 18713
+    },
+    "Q141943363": {
+      "martyrologyLine": 18716
+    },
+    "Q141943364": {
+      "martyrologyLine": 18719
+    },
+    "Q141943365": {
+      "martyrologyLine": 18722
+    },
+    "Q141943377": {
+      "martyrologyLine": 18752
+    },
+    "Q141943378": {
+      "martyrologyLine": 18755
+    },
+    "Q141943379": {
+      "martyrologyLine": 18758
+    },
+    "Q141943384": {
+      "martyrologyLine": 18773
+    },
+    "Q141943385": {
+      "martyrologyLine": 18776
+    },
+    "Q141943386": {
+      "martyrologyLine": 18779
+    },
+    "Q141943387": {
+      "martyrologyLine": 18782
+    },
+    "Q141943388": {
+      "martyrologyLine": 18785
+    },
+    "Q141943389": {
+      "martyrologyLine": 18788
+    },
+    "Q141943390": {
+      "martyrologyLine": 18791
+    },
+    "Q141943391": {
+      "martyrologyLine": 18794
+    },
+    "Q141943394": {
+      "martyrologyLine": 18800
+    },
+    "Q141943400": {
+      "martyrologyLine": 18815
+    },
+    "Q141943401": {
+      "martyrologyLine": 18818
+    },
+    "Q141943402": {
+      "martyrologyLine": 18821
+    },
+    "Q141943407": {
+      "martyrologyLine": 18833
+    },
+    "Q141943458": {
+      "martyrologyLine": 18866
+    },
+    "Q141944498": {
+      "martyrologyLine": 18878
+    },
+    "Q141944499": {
+      "martyrologyLine": 18881
+    },
+    "Q141944501": {
+      "martyrologyLine": 18884
+    },
+    "Q141944502": {
+      "martyrologyLine": 18887
+    },
+    "Q141944503": {
+      "martyrologyLine": 18890
+    },
+    "Q141944504": {
+      "martyrologyLine": 18893
+    },
+    "Q141944530": {
+      "martyrologyLine": 18956
+    },
+    "Q141944531": {
+      "martyrologyLine": 18959
+    },
+    "Q141944532": {
+      "martyrologyLine": 18962
+    },
+    "Q141944533": {
+      "martyrologyLine": 18965
+    },
+    "Q141944535": {
+      "martyrologyLine": 18968
+    },
+    "Q141944536": {
+      "martyrologyLine": 18971
+    },
+    "Q141944537": {
+      "martyrologyLine": 18974
+    },
+    "Q141944538": {
+      "martyrologyLine": 18977
+    },
+    "Q141944539": {
+      "martyrologyLine": 18980
+    },
+    "Q141944540": {
+      "martyrologyLine": 18983
+    },
+    "Q141944542": {
+      "martyrologyLine": 18986
+    },
+    "Q141944543": {
+      "martyrologyLine": 18989
+    },
+    "Q141944559": {
+      "martyrologyLine": 19031
+    },
+    "Q141944561": {
+      "martyrologyLine": 19034
+    },
+    "Q141944562": {
+      "martyrologyLine": 19037
+    },
+    "Q141944569": {
+      "martyrologyLine": 19055
+    },
+    "Q141944570": {
+      "martyrologyLine": 19058
+    },
+    "Q141944571": {
+      "martyrologyLine": 19061
+    },
+    "Q141944572": {
+      "martyrologyLine": 19064
+    },
+    "Q141944574": {
+      "martyrologyLine": 19067
+    },
+    "Q141944575": {
+      "martyrologyLine": 19070
+    },
+    "Q141944576": {
+      "martyrologyLine": 19073
+    },
+    "Q141944577": {
+      "martyrologyLine": 19076
+    },
+    "Q141944592": {
+      "martyrologyLine": 19116
+    },
+    "Q141944594": {
+      "martyrologyLine": 19119
+    },
+    "Q141944595": {
+      "martyrologyLine": 19122
+    },
+    "Q141944601": {
+      "martyrologyLine": 19137
+    },
+    "Q141944603": {
+      "martyrologyLine": 19140
+    },
+    "Q141944604": {
+      "martyrologyLine": 19143
+    },
+    "Q141944605": {
+      "martyrologyLine": 19146
+    },
+    "Q141944606": {
+      "martyrologyLine": 19149
+    },
+    "Q141944607": {
+      "martyrologyLine": 19152
+    },
+    "Q141944609": {
+      "martyrologyLine": 19155
+    },
+    "Q141944610": {
+      "martyrologyLine": 19158
+    },
+    "Q141944611": {
+      "martyrologyLine": 19161
+    },
+    "Q141944612": {
+      "martyrologyLine": 19164
+    },
+    "Q141944614": {
+      "martyrologyLine": 19167
+    },
+    "Q141944624": {
+      "martyrologyLine": 19188
+    },
+    "Q141944626": {
+      "martyrologyLine": 19194
+    },
+    "Q141944659": {
+      "martyrologyLine": 19275
+    },
+    "Q141944660": {
+      "martyrologyLine": 19278
+    },
+    "Q141944663": {
+      "martyrologyLine": 19281
+    },
+    "Q141944664": {
+      "martyrologyLine": 19284
+    },
+    "Q141944665": {
+      "martyrologyLine": 19287
+    },
+    "Q141944666": {
+      "martyrologyLine": 19290
+    },
+    "Q141944672": {
+      "martyrologyLine": 19305
+    },
+    "Q141944699": {
+      "martyrologyLine": 19368
+    },
+    "Q141944700": {
+      "martyrologyLine": 19371
+    },
+    "Q141944701": {
+      "martyrologyLine": 19374
+    },
+    "Q141944703": {
+      "martyrologyLine": 19377
+    },
+    "Q141944704": {
+      "martyrologyLine": 19380
+    },
+    "Q141944707": {
+      "martyrologyLine": 19389
+    },
+    "Q141944708": {
+      "martyrologyLine": 19392
+    },
+    "Q141944710": {
+      "martyrologyLine": 19395
+    },
+    "Q141944711": {
+      "martyrologyLine": 19398
+    },
+    "Q141944712": {
+      "martyrologyLine": 19401
+    },
+    "Q141944713": {
+      "martyrologyLine": 19404
+    },
+    "Q141944737": {
+      "martyrologyLine": 19461
+    },
+    "Q141944743": {
+      "martyrologyLine": 19476
+    },
+    "Q141944744": {
+      "martyrologyLine": 19479
+    },
+    "Q141944854": {
+      "martyrologyLine": 19530
+    },
+    "Q141944857": {
+      "martyrologyLine": 19536
+    },
+    "Q141944884": {
+      "martyrologyLine": 19539
+    },
+    "Q141944896": {
+      "martyrologyLine": 19569
+    },
+    "Q141944898": {
+      "martyrologyLine": 19572
+    },
+    "Q141944899": {
+      "martyrologyLine": 19575
+    },
+    "Q141944912": {
+      "martyrologyLine": 19608
+    },
+    "Q141944913": {
+      "martyrologyLine": 19611
+    },
+    "Q141944914": {
+      "martyrologyLine": 19614
+    },
+    "Q141944916": {
+      "martyrologyLine": 19617
+    },
+    "Q141944917": {
+      "martyrologyLine": 19620
+    },
+    "Q141944918": {
+      "martyrologyLine": 19623
+    },
+    "Q141944919": {
+      "martyrologyLine": 19626
+    },
+    "Q141944921": {
+      "martyrologyLine": 19629
+    },
+    "Q141944922": {
+      "martyrologyLine": 19632
+    },
+    "Q141944923": {
+      "martyrologyLine": 19635
+    },
+    "Q141944924": {
+      "martyrologyLine": 19638
+    },
+    "Q141944925": {
+      "martyrologyLine": 19641
+    },
+    "Q141944926": {
+      "martyrologyLine": 19644
+    },
+    "Q141944934": {
+      "martyrologyLine": 19662
+    },
+    "Q141944937": {
+      "martyrologyLine": 19671
+    },
+    "Q141944938": {
+      "martyrologyLine": 19674
+    },
+    "Q141945700": {
+      "martyrologyLine": 19752
+    },
+    "Q141945704": {
+      "martyrologyLine": 19755
+    },
+    "Q141945717": {
+      "martyrologyLine": 19785
+    },
+    "Q141945719": {
+      "martyrologyLine": 19788
+    },
+    "Q141945720": {
+      "martyrologyLine": 19791
+    },
+    "Q141945721": {
+      "martyrologyLine": 19794
+    },
+    "Q141945722": {
+      "martyrologyLine": 19797
+    },
+    "Q141945723": {
+      "martyrologyLine": 19800
+    },
+    "Q141945725": {
+      "martyrologyLine": 19803
+    },
+    "Q141945729": {
+      "martyrologyLine": 19815
+    },
+    "Q141945735": {
+      "martyrologyLine": 19827
+    },
+    "Q141945736": {
+      "martyrologyLine": 19830
+    },
+    "Q141945737": {
+      "martyrologyLine": 19833
+    },
+    "Q141945739": {
+      "martyrologyLine": 19836
+    },
+    "Q141945740": {
+      "martyrologyLine": 19839
+    },
+    "Q141945741": {
+      "martyrologyLine": 19842
+    },
+    "Q141945742": {
+      "martyrologyLine": 19845
+    },
+    "Q141945743": {
+      "martyrologyLine": 19848
+    },
+    "Q141945745": {
+      "martyrologyLine": 19851
+    },
+    "Q141945746": {
+      "martyrologyLine": 19854
+    },
+    "Q141945747": {
+      "martyrologyLine": 19857
+    },
+    "Q141945748": {
+      "martyrologyLine": 19860
+    },
+    "Q141945760": {
+      "martyrologyLine": 19890
+    },
+    "Q141945799": {
+      "martyrologyLine": 19983
+    },
+    "Q141945811": {
+      "martyrologyLine": 20013
+    },
+    "Q141945812": {
+      "martyrologyLine": 20016
+    },
+    "Q141945813": {
+      "martyrologyLine": 20019
+    },
+    "Q141945864": {
+      "martyrologyLine": 20085
+    },
+    "Q141945866": {
+      "martyrologyLine": 20091
+    },
+    "Q141959972": {
+      "martyrologyLine": 20337
+    },
+    "Q141959973": {
+      "martyrologyLine": 20340
+    },
+    "Q141959974": {
+      "martyrologyLine": 20343
+    },
+    "Q141959975": {
+      "martyrologyLine": 20346
+    },
+    "Q141963174": {
+      "martyrologyLine": 20349
+    },
+    "Q141963175": {
+      "martyrologyLine": 20352
+    },
+    "Q141963176": {
+      "martyrologyLine": 20355
+    },
+    "Q141963178": {
+      "martyrologyLine": 20358
+    },
+    "Q141963179": {
+      "martyrologyLine": 20361
+    },
+    "Q141963180": {
+      "martyrologyLine": 20364
+    },
+    "Q142199788": {
+      "martyrologyLine": 20376
+    },
+    "Q142199789": {
+      "martyrologyLine": 20379
+    },
+    "Q1441753": {
+      "martyrologyLine": 5523
+    },
+    "Q14918019": {
+      "martyrologyLine": 12994
+    },
+    "Q14918043": {
+      "martyrologyLine": 12997
+    },
+    "Q14918045": {
+      "martyrologyLine": 13003
+    },
+    "Q14918258": {
+      "martyrologyLine": 13009
+    },
+    "Q14918471": {
+      "martyrologyLine": 13012
+    },
+    "Q1502088": {
+      "martyrologyLine": 5563
+    },
+    "Q15070122": {
+      "martyrologyLine": 13037
+    },
+    "Q1512844": {
+      "martyrologyLine": 5569
+    },
+    "Q152426": {
+      "martyrologyLine": 794
+    },
+    "Q153850": {
+      "martyrologyLine": 806
+    },
+    "Q15453096": {
+      "martyrologyLine": 13062
+    },
+    "Q160445": {
+      "martyrologyLine": 836
+    },
+    "Q16151199": {
+      "martyrologyLine": 13117
+    },
+    "Q161775": {
+      "martyrologyLine": 878
+    },
+    "Q1634188": {
+      "martyrologyLine": 5660
+    },
+    "Q1647470": {
+      "martyrologyLine": 5669
+    },
+    "Q16564360": {
+      "martyrologyLine": 13222
+    },
+    "Q16588065": {
+      "martyrologyLine": 13252
+    },
+    "Q16594787": {
+      "martyrologyLine": 13262
+    },
+    "Q16611310": {
+      "martyrologyLine": 13289
+    },
+    "Q16726121": {
+      "martyrologyLine": 13311
+    },
+    "Q1685825": {
+      "martyrologyLine": 5693
+    },
+    "Q16863447": {
+      "martyrologyLine": 13320
+    },
+    "Q16863486": {
+      "martyrologyLine": 13323
+    },
+    "Q16863494": {
+      "martyrologyLine": 13326
+    },
+    "Q168952": {
+      "martyrologyLine": 948
+    },
+    "Q1700061": {
+      "martyrologyLine": 5711
+    },
+    "Q17362323": {
+      "martyrologyLine": 13387
+    },
+    "Q17362375": {
+      "martyrologyLine": 13390
+    },
+    "Q17609694": {
+      "martyrologyLine": 13396
+    },
+    "Q179935": {
+      "martyrologyLine": 1027
+    },
+    "Q18275014": {
+      "martyrologyLine": 13432
+    },
+    "Q183332": {
+      "martyrologyLine": 1071
+    },
+    "Q1848680": {
+      "martyrologyLine": 5827
+    },
+    "Q18529059": {
+      "martyrologyLine": 13453
+    },
+    "Q18710432": {
+      "martyrologyLine": 13477
+    },
+    "Q18710440": {
+      "martyrologyLine": 13489
+    },
+    "Q18710441": {
+      "martyrologyLine": 13492
+    },
+    "Q18755286": {
+      "martyrologyLine": 13498
+    },
+    "Q1886600": {
+      "martyrologyLine": 5880
+    },
+    "Q1893302": {
+      "martyrologyLine": 5896
+    },
+    "Q1897597": {
+      "martyrologyLine": 5909
+    },
+    "Q192236": {
+      "martyrologyLine": 1127
+    },
+    "Q1923977": {
+      "martyrologyLine": 5924
+    },
+    "Q192816": {
+      "martyrologyLine": 1133
+    },
+    "Q194395": {
+      "martyrologyLine": 1154
+    },
+    "Q1985197": {
+      "martyrologyLine": 5996
+    },
+    "Q20029022": {
+      "martyrologyLine": 13624
+    },
+    "Q20030304": {
+      "martyrologyLine": 13654
+    },
+    "Q2040636": {
+      "martyrologyLine": 6062
+    },
+    "Q2041802": {
+      "martyrologyLine": 6065
+    },
+    "Q2042099": {
+      "martyrologyLine": 6068
+    },
+    "Q2043896": {
+      "martyrologyLine": 6084
+    },
+    "Q2058780": {
+      "martyrologyLine": 6125
+    },
+    "Q20604618": {
+      "martyrologyLine": 13702
+    },
+    "Q20604815": {
+      "martyrologyLine": 13711
+    },
+    "Q20604849": {
+      "martyrologyLine": 13714
+    },
+    "Q20605010": {
+      "martyrologyLine": 13717
+    },
+    "Q20605616": {
+      "martyrologyLine": 13735
+    },
+    "Q20605631": {
+      "martyrologyLine": 13738
+    },
+    "Q2061588": {
+      "martyrologyLine": 6143
+    },
+    "Q2067236": {
+      "martyrologyLine": 6150
+    },
+    "Q2069003": {
+      "martyrologyLine": 6159
+    },
+    "Q2069194": {
+      "martyrologyLine": 6165
+    },
+    "Q2072791": {
+      "martyrologyLine": 6180
+    },
+    "Q2073259": {
+      "martyrologyLine": 6183
+    },
+    "Q2073318": {
+      "martyrologyLine": 6186,
+      "name": "Marciana da Mauritânia",
+      "nameSource": "https://liturgia.pt/martirologio/pdf/Martirologio_ind.pdf"
+    },
+    "Q2082240": {
+      "martyrologyLine": 6225
+    },
+    "Q210096": {
+      "martyrologyLine": 1220
+    },
+    "Q2105116": {
+      "martyrologyLine": 6264
+    },
+    "Q21547554": {
+      "martyrologyLine": 13841
+    },
+    "Q2157314": {
+      "martyrologyLine": 6315
+    },
+    "Q2195719": {
+      "martyrologyLine": 6373
+    },
+    "Q2229650": {
+      "martyrologyLine": 6394
+    },
+    "Q2235174": {
+      "martyrologyLine": 6400
+    },
+    "Q2239828": {
+      "martyrologyLine": 6410
+    },
+    "Q2266240": {
+      "martyrologyLine": 6455
+    },
+    "Q2267095": {
+      "martyrologyLine": 6461
+    },
+    "Q2274370": {
+      "martyrologyLine": 6470
+    },
+    "Q2293099": {
+      "martyrologyLine": 6515
+    },
+    "Q2296290": {
+      "martyrologyLine": 6531
+    },
+    "Q2312723": {
+      "martyrologyLine": 6537
+    },
+    "Q2367131": {
+      "martyrologyLine": 6628
+    },
+    "Q2380319": {
+      "martyrologyLine": 6646
+    },
+    "Q238744": {
+      "martyrologyLine": 1395
+    },
+    "Q2387540": {
+      "martyrologyLine": 6662
+    },
+    "Q23942989": {
+      "martyrologyLine": 14000
+    },
+    "Q23943175": {
+      "martyrologyLine": 14057
+    },
+    "Q23943183": {
+      "martyrologyLine": 14060
+    },
+    "Q2403429": {
+      "martyrologyLine": 6689
+    },
+    "Q24036028": {
+      "martyrologyLine": 14085
+    },
+    "Q2423087": {
+      "martyrologyLine": 6719
+    },
+    "Q24296918": {
+      "martyrologyLine": 14198
+    },
+    "Q2437591": {
+      "martyrologyLine": 6731
+    },
+    "Q24647154": {
+      "martyrologyLine": 14204
+    },
+    "Q2471413": {
+      "martyrologyLine": 6777
+    },
+    "Q247270": {
+      "martyrologyLine": 1489
+    },
+    "Q2501364": {
+      "martyrologyLine": 6836
+    },
+    "Q2509584": {
+      "martyrologyLine": 6848
+    },
+    "Q2523976": {
+      "martyrologyLine": 6860
+    },
+    "Q2537197": {
+      "martyrologyLine": 6884
+    },
+    "Q2565740": {
+      "martyrologyLine": 6918
+    },
+    "Q257607": {
+      "martyrologyLine": 1531
+    },
+    "Q257960": {
+      "martyrologyLine": 1534
+    },
+    "Q2585215": {
+      "martyrologyLine": 6952
+    },
+    "Q2598078": {
+      "martyrologyLine": 6968
+    },
+    "Q2608376": {
+      "martyrologyLine": 6986
+    },
+    "Q2626102": {
+      "martyrologyLine": 7010
+    },
+    "Q2628084": {
+      "martyrologyLine": 7019
+    },
+    "Q2649185": {
+      "martyrologyLine": 7052
+    },
+    "Q2664060": {
+      "martyrologyLine": 7088
+    },
+    "Q272101": {
+      "martyrologyLine": 1646
+    },
+    "Q276148": {
+      "martyrologyLine": 1698
+    },
+    "Q2761571": {
+      "martyrologyLine": 7232
+    },
+    "Q2771542": {
+      "martyrologyLine": 7235
+    },
+    "Q277600": {
+      "martyrologyLine": 1704
+    },
+    "Q2825441": {
+      "martyrologyLine": 7284
+    },
+    "Q2853866": {
+      "martyrologyLine": 7345
+    },
+    "Q288295": {
+      "martyrologyLine": 1740
+    },
+    "Q2884061": {
+      "martyrologyLine": 7387
+    },
+    "Q2910109": {
+      "martyrologyLine": 7417
+    },
+    "Q2966545": {
+      "martyrologyLine": 7459
+    },
+    "Q2976412": {
+      "martyrologyLine": 7471
+    },
+    "Q2994822": {
+      "martyrologyLine": 7480
+    },
+    "Q30034697": {
+      "martyrologyLine": 14534
+    },
+    "Q3031361": {
+      "martyrologyLine": 7522
+    },
+    "Q3034845": {
+      "martyrologyLine": 7525
+    },
+    "Q3046840": {
+      "martyrologyLine": 7549
+    },
+    "Q3055096": {
+      "martyrologyLine": 7570
+    },
+    "Q3060279": {
+      "martyrologyLine": 7579
+    },
+    "Q3112590": {
+      "martyrologyLine": 7709,
+      "name": "Pôncio de Cimiez",
+      "nameSource": "https://liturgia.pt/martirologio/pdf/Martirologio_ind.pdf"
+    },
+    "Q31397": {
+      "martyrologyLine": 69
+    },
+    "Q3148173": {
+      "martyrologyLine": 7770
+    },
+    "Q3153986": {
+      "martyrologyLine": 7774
+    },
+    "Q3158317": {
+      "martyrologyLine": 7792
+    },
+    "Q3158519": {
+      "martyrologyLine": 7798
+    },
+    "Q3190300": {
+      "martyrologyLine": 7842
+    },
+    "Q319108": {
+      "martyrologyLine": 1987
+    },
+    "Q3216637": {
+      "martyrologyLine": 7853
+    },
+    "Q3261204": {
+      "martyrologyLine": 7868
+    },
+    "Q328238": {
+      "martyrologyLine": 2051
+    },
+    "Q3295528": {
+      "martyrologyLine": 7940
+    },
+    "Q3302416": {
+      "martyrologyLine": 7966
+    },
+    "Q33923": {
+      "martyrologyLine": 91
+    },
+    "Q3397314": {
+      "martyrologyLine": 8075
+    },
+    "Q3401261": {
+      "martyrologyLine": 8084
+    },
+    "Q3418225": {
+      "martyrologyLine": 8108
+    },
+    "Q346578": {
+      "martyrologyLine": 2140
+    },
+    "Q3483612": {
+      "martyrologyLine": 8213
+    },
+    "Q3554331": {
+      "martyrologyLine": 8306,
+      "name": "Valeriano de Roma",
+      "nameSource": "https://liturgia.pt/martirologio/pdf/Martirologio_ind.pdf"
+    },
+    "Q355884": {
+      "martyrologyLine": 2203
+    },
+    "Q3568685": {
+      "martyrologyLine": 8342
+    },
+    "Q357410": {
+      "martyrologyLine": 2212
+    },
+    "Q3619135": {
+      "martyrologyLine": 8451
+    },
+    "Q369793": {
+      "martyrologyLine": 2291
+    },
+    "Q370210": {
+      "martyrologyLine": 2295
+    },
+    "Q372929": {
+      "martyrologyLine": 2308
+    },
+    "Q380649": {
+      "martyrologyLine": 2359
+    },
+    "Q380651": {
+      "martyrologyLine": 2363
+    },
+    "Q3809536": {
+      "martyrologyLine": 8843
+    },
+    "Q3810254": {
+      "martyrologyLine": 8846
+    },
+    "Q3815366": {
+      "martyrologyLine": 8865
+    },
+    "Q3819183": {
+      "martyrologyLine": 8877
+    },
+    "Q3821269": {
+      "martyrologyLine": 8889
+    },
+    "Q3826988": {
+      "martyrologyLine": 8934
+    },
+    "Q3912447": {
+      "martyrologyLine": 9171
+    },
+    "Q392334": {
+      "martyrologyLine": 2421
+    },
+    "Q3937229": {
+      "martyrologyLine": 9201
+    },
+    "Q3972795": {
+      "martyrologyLine": 9275
+    },
+    "Q4062792": {
+      "martyrologyLine": 9372
+    },
+    "Q4063485": {
+      "martyrologyLine": 9375
+    },
+    "Q4075367": {
+      "martyrologyLine": 9416
+    },
+    "Q4078339": {
+      "martyrologyLine": 9429
+    },
+    "Q4086846": {
+      "martyrologyLine": 9441
+    },
+    "Q4088311": {
+      "martyrologyLine": 9444
+    },
+    "Q4089037": {
+      "martyrologyLine": 9447
+    },
+    "Q4094239": {
+      "martyrologyLine": 9450
+    },
+    "Q4103208": {
+      "martyrologyLine": 9460
+    },
+    "Q4103222": {
+      "martyrologyLine": 9476
+    },
+    "Q4103227": {
+      "martyrologyLine": 9480
+    },
+    "Q4103247": {
+      "martyrologyLine": 9496
+    },
+    "Q4103248": {
+      "martyrologyLine": 9500
+    },
+    "Q4110022": {
+      "martyrologyLine": 9513
+    },
+    "Q4114620": {
+      "martyrologyLine": 9516
+    },
+    "Q4132991": {
+      "martyrologyLine": 9525
+    },
+    "Q4137698": {
+      "martyrologyLine": 9529
+    },
+    "Q4149004": {
+      "martyrologyLine": 9542
+    },
+    "Q4151688": {
+      "martyrologyLine": 9549
+    },
+    "Q4160548": {
+      "martyrologyLine": 9565
+    },
+    "Q4161068": {
+      "martyrologyLine": 9569
+    },
+    "Q4169024": {
+      "martyrologyLine": 9586
+    },
+    "Q4171372": {
+      "martyrologyLine": 9601
+    },
+    "Q4171756": {
+      "martyrologyLine": 9604
+    },
+    "Q4177885": {
+      "martyrologyLine": 9617
+    },
+    "Q4186712": {
+      "martyrologyLine": 9623
+    },
+    "Q41962891": {
+      "martyrologyLine": 14687
+    },
+    "Q4202499": {
+      "martyrologyLine": 9639
+    },
+    "Q4212312": {
+      "martyrologyLine": 9651
+    },
+    "Q4218756": {
+      "martyrologyLine": 9657
+    },
+    "Q4220641": {
+      "martyrologyLine": 9661
+    },
+    "Q4220649": {
+      "martyrologyLine": 9665
+    },
+    "Q4221957": {
+      "martyrologyLine": 9672
+    },
+    "Q4225032": {
+      "martyrologyLine": 9675
+    },
+    "Q4227354": {
+      "martyrologyLine": 9682
+    },
+    "Q423078": {
+      "martyrologyLine": 2457
+    },
+    "Q4235454": {
+      "martyrologyLine": 9691
+    },
+    "Q42376947": {
+      "martyrologyLine": 14705
+    },
+    "Q4242111": {
+      "martyrologyLine": 9694
+    },
+    "Q4244693": {
+      "martyrologyLine": 9700
+    },
+    "Q42544": {
+      "martyrologyLine": 108
+    },
+    "Q4260672": {
+      "martyrologyLine": 9714
+    },
+    "Q4260678": {
+      "martyrologyLine": 9722
+    },
+    "Q4260688": {
+      "martyrologyLine": 9727
+    },
+    "Q4260689": {
+      "martyrologyLine": 9731
+    },
+    "Q4260706": {
+      "martyrologyLine": 9735
+    },
+    "Q4260721": {
+      "martyrologyLine": 9739
+    },
+    "Q4260736": {
+      "martyrologyLine": 9744
+    },
+    "Q4267686": {
+      "martyrologyLine": 9755
+    },
+    "Q4271317": {
+      "martyrologyLine": 9767
+    },
+    "Q4285086": {
+      "martyrologyLine": 9795
+    },
+    "Q4286288": {
+      "martyrologyLine": 9801
+    },
+    "Q42881473": {
+      "martyrologyLine": 14708
+    },
+    "Q42887052": {
+      "martyrologyLine": 14714
+    },
+    "Q4302652": {
+      "martyrologyLine": 9810
+    },
+    "Q430497": {
+      "martyrologyLine": 2475,
+      "name": "Próculo de Bolonha",
+      "nameSource": "https://liturgia.pt/martirologio/pdf/Martirologio_ind.pdf"
+    },
+    "Q4312835": {
+      "martyrologyLine": 9822
+    },
+    "Q4313205": {
+      "martyrologyLine": 9826
+    },
+    "Q4323046": {
+      "martyrologyLine": 9832
+    },
+    "Q4341410": {
+      "martyrologyLine": 9850
+    },
+    "Q4342297": {
+      "martyrologyLine": 9856
+    },
+    "Q4342305": {
+      "martyrologyLine": 9860
+    },
+    "Q434874": {
+      "martyrologyLine": 2496,
+      "name": "Ursicino de Ravena",
+      "nameSource": "https://liturgia.pt/martirologio/pdf/Martirologio_ind.pdf"
+    },
+    "Q436439": {
+      "martyrologyLine": 2532
+    },
+    "Q437084": {
+      "martyrologyLine": 2547
+    },
+    "Q438362": {
+      "martyrologyLine": 2571
+    },
+    "Q4390023": {
+      "martyrologyLine": 9883
+    },
+    "Q4396767": {
+      "martyrologyLine": 9889
+    },
+    "Q43999": {
+      "martyrologyLine": 167
+    },
+    "Q44170": {
+      "martyrologyLine": 190
+    },
+    "Q4417821": {
+      "martyrologyLine": 9905
+    },
+    "Q4425760": {
+      "martyrologyLine": 9924
+    },
+    "Q4444781": {
+      "martyrologyLine": 9933
+    },
+    "Q4448349": {
+      "martyrologyLine": 9936
+    },
+    "Q4464088": {
+      "martyrologyLine": 9945
+    },
+    "Q4468216": {
+      "martyrologyLine": 9959
+    },
+    "Q4481157": {
+      "martyrologyLine": 9974
+    },
+    "Q4482459": {
+      "martyrologyLine": 9985
+    },
+    "Q4491842": {
+      "martyrologyLine": 9997
+    },
+    "Q4493263": {
+      "martyrologyLine": 10003
+    },
+    "Q4495365": {
+      "martyrologyLine": 10011
+    },
+    "Q4495366": {
+      "martyrologyLine": 10015
+    },
+    "Q4499736": {
+      "martyrologyLine": 10023
+    },
+    "Q4501531": {
+      "martyrologyLine": 10027
+    },
+    "Q4502874": {
+      "martyrologyLine": 10030
+    },
+    "Q4514575": {
+      "martyrologyLine": 10064
+    },
+    "Q4515435": {
+      "martyrologyLine": 10067
+    },
+    "Q4515438": {
+      "martyrologyLine": 10071
+    },
+    "Q4515453": {
+      "martyrologyLine": 10087
+    },
+    "Q4515456": {
+      "martyrologyLine": 10095
+    },
+    "Q4515469": {
+      "martyrologyLine": 10103
+    },
+    "Q4515471": {
+      "martyrologyLine": 10107
+    },
+    "Q4515472": {
+      "martyrologyLine": 10111
+    },
+    "Q4515533": {
+      "martyrologyLine": 10123
+    },
+    "Q4516984": {
+      "martyrologyLine": 10131
+    },
+    "Q4516988": {
+      "martyrologyLine": 10135
+    },
+    "Q4516992": {
+      "martyrologyLine": 10139
+    },
+    "Q4516993": {
+      "martyrologyLine": 10143
+    },
+    "Q4523041": {
+      "martyrologyLine": 10167
+    },
+    "Q4533462": {
+      "martyrologyLine": 10179
+    },
+    "Q4533464": {
+      "martyrologyLine": 10183
+    },
+    "Q4533485": {
+      "martyrologyLine": 10187
+    },
+    "Q4533488": {
+      "martyrologyLine": 10191
+    },
+    "Q4534236": {
+      "martyrologyLine": 10195
+    },
+    "Q458633": {
+      "martyrologyLine": 2835
+    },
+    "Q466996": {
+      "martyrologyLine": 2910
+    },
+    "Q467246": {
+      "martyrologyLine": 2919
+    },
+    "Q4694658": {
+      "martyrologyLine": 10214
+    },
+    "Q47544992": {
+      "martyrologyLine": 14750
+    },
+    "Q47545004": {
+      "martyrologyLine": 14762
+    },
+    "Q47545053": {
+      "martyrologyLine": 14798
+    },
+    "Q4757568": {
+      "martyrologyLine": 10239
+    },
+    "Q4767393": {
+      "martyrologyLine": 10245
+    },
+    "Q4773092": {
+      "martyrologyLine": 10249
+    },
+    "Q4773621": {
+      "martyrologyLine": 10255
+    },
+    "Q4810688": {
+      "martyrologyLine": 10274,
+      "name": "Astério de Óstia",
+      "nameSource": "https://liturgia.pt/martirologio/pdf/Martirologio_ind.pdf"
+    },
+    "Q48682": {
+      "martyrologyLine": 262
+    },
+    "Q48876": {
+      "martyrologyLine": 265
+    },
+    "Q490503": {
+      "martyrologyLine": 3019
+    },
+    "Q4926301": {
+      "martyrologyLine": 10317
+    },
+    "Q495960": {
+      "martyrologyLine": 3034
+    },
+    "Q496924": {
+      "martyrologyLine": 3038
+    },
+    "Q5080595": {
+      "martyrologyLine": 10341
+    },
+    "Q5113155": {
+      "martyrologyLine": 10347
+    },
+    "Q5113410": {
+      "martyrologyLine": 10350
+    },
+    "Q5162282": {
+      "martyrologyLine": 10362
+    },
+    "Q518300": {
+      "martyrologyLine": 3153
+    },
+    "Q5196595": {
+      "martyrologyLine": 10374
+    },
+    "Q532773": {
+      "martyrologyLine": 3220
+    },
+    "Q5339847": {
+      "martyrologyLine": 10399
+    },
+    "Q5343722": {
+      "martyrologyLine": 10405
+    },
+    "Q5343827": {
+      "martyrologyLine": 10408
+    },
+    "Q5344685": {
+      "martyrologyLine": 10411
+    },
+    "Q5344699": {
+      "martyrologyLine": 10414
+    },
+    "Q5345818": {
+      "martyrologyLine": 10420
+    },
+    "Q540836": {
+      "martyrologyLine": 3261
+    },
+    "Q5414320": {
+      "martyrologyLine": 10441
+    },
+    "Q5416884": {
+      "martyrologyLine": 10447
+    },
+    "Q547042": {
+      "martyrologyLine": 3288
+    },
+    "Q549324": {
+      "martyrologyLine": 3297
+    },
+    "Q5539019": {
+      "martyrologyLine": 10478
+    },
+    "Q5542886": {
+      "martyrologyLine": 10487
+    },
+    "Q560121": {
+      "martyrologyLine": 3361
+    },
+    "Q580681": {
+      "martyrologyLine": 3441
+    },
+    "Q580706": {
+      "martyrologyLine": 3445,
+      "name": "Antíoco de Sulcis",
+      "nameSource": "https://liturgia.pt/martirologio/pdf/Martirologio_ind.pdf"
+    },
+    "Q587596": {
+      "martyrologyLine": 3469
+    },
+    "Q587909": {
+      "martyrologyLine": 3472
+    },
+    "Q588832": {
+      "martyrologyLine": 3478
+    },
+    "Q591517": {
+      "martyrologyLine": 3494
+    },
+    "Q5932838": {
+      "martyrologyLine": 10560
+    },
+    "Q603998": {
+      "martyrologyLine": 3550
+    },
+    "Q6080918": {
+      "martyrologyLine": 10594
+    },
+    "Q61524": {
+      "martyrologyLine": 327
+    },
+    "Q6161375": {
+      "martyrologyLine": 10609
+    },
+    "Q6218190": {
+      "martyrologyLine": 10618
+    },
+    "Q6218904": {
+      "martyrologyLine": 10621
+    },
+    "Q6220606": {
+      "martyrologyLine": 10624
+    },
+    "Q6223249": {
+      "martyrologyLine": 10631
+    },
+    "Q6225127": {
+      "martyrologyLine": 10634
+    },
+    "Q6227148": {
+      "martyrologyLine": 10637
+    },
+    "Q6230237": {
+      "martyrologyLine": 10640
+    },
+    "Q6232951": {
+      "martyrologyLine": 10643
+    },
+    "Q6237408": {
+      "martyrologyLine": 10649
+    },
+    "Q6239154": {
+      "martyrologyLine": 10652
+    },
+    "Q6244045": {
+      "martyrologyLine": 10655
+    },
+    "Q6245410": {
+      "martyrologyLine": 10661
+    },
+    "Q6250244": {
+      "martyrologyLine": 10664
+    },
+    "Q6252845": {
+      "martyrologyLine": 10667
+    },
+    "Q6255320": {
+      "martyrologyLine": 10673
+    },
+    "Q6257656": {
+      "martyrologyLine": 10682
+    },
+    "Q6258610": {
+      "martyrologyLine": 10685
+    },
+    "Q6259322": {
+      "martyrologyLine": 10688
+    },
+    "Q6260783": {
+      "martyrologyLine": 10691
+    },
+    "Q6265151": {
+      "martyrologyLine": 10697
+    },
+    "Q626689": {
+      "martyrologyLine": 3616
+    },
+    "Q62949": {
+      "martyrologyLine": 343
+    },
+    "Q6300057": {
+      "martyrologyLine": 10713
+    },
+    "Q63092713": {
+      "martyrologyLine": 15026
+    },
+    "Q63092734": {
+      "martyrologyLine": 15032
+    },
+    "Q63093062": {
+      "martyrologyLine": 15035
+    },
+    "Q63275471": {
+      "martyrologyLine": 15044
+    },
+    "Q64410398": {
+      "martyrologyLine": 15083
+    },
+    "Q644988": {
+      "martyrologyLine": 3677
+    },
+    "Q6500656": {
+      "martyrologyLine": 10725
+    },
+    "Q654525": {
+      "martyrologyLine": 3715
+    },
+    "Q666061": {
+      "martyrologyLine": 3757
+    },
+    "Q668528": {
+      "martyrologyLine": 3767
+    },
+    "Q670320": {
+      "martyrologyLine": 3774
+    },
+    "Q678498": {
+      "martyrologyLine": 3792
+    },
+    "Q6787013": {
+      "martyrologyLine": 10770
+    },
+    "Q682935": {
+      "martyrologyLine": 3813,
+      "name": "Vítor de Soleure",
+      "nameSource": "https://liturgia.pt/martirologio/pdf/Martirologio_ind.pdf"
+    },
+    "Q684306": {
+      "martyrologyLine": 3816
+    },
+    "Q7025434": {
+      "martyrologyLine": 10814
+    },
+    "Q7025556": {
+      "martyrologyLine": 10817
+    },
+    "Q706874": {
+      "martyrologyLine": 3903
+    },
+    "Q713402": {
+      "martyrologyLine": 3939
+    },
+    "Q7146217": {
+      "martyrologyLine": 10841
+    },
+    "Q7147399": {
+      "martyrologyLine": 10847
+    },
+    "Q7155590": {
+      "martyrologyLine": 10850
+    },
+    "Q7177021": {
+      "martyrologyLine": 10856
+    },
+    "Q7177795": {
+      "martyrologyLine": 10859
+    },
+    "Q7184229": {
+      "martyrologyLine": 10871
+    },
+    "Q72049": {
+      "martyrologyLine": 391
+    },
+    "Q7269834": {
+      "martyrologyLine": 10886
+    },
+    "Q730029": {
+      "martyrologyLine": 4030
+    },
+    "Q7325661": {
+      "martyrologyLine": 10898
+    },
+    "Q7326430": {
+      "martyrologyLine": 10901
+    },
+    "Q7327249": {
+      "martyrologyLine": 10904
+    },
+    "Q7327251": {
+      "martyrologyLine": 10907
+    },
+    "Q7327329": {
+      "martyrologyLine": 10910
+    },
+    "Q7328967": {
+      "martyrologyLine": 10913
+    },
+    "Q7329054": {
+      "martyrologyLine": 10916
+    },
+    "Q7329438": {
+      "martyrologyLine": 10919
+    },
+    "Q7341520": {
+      "martyrologyLine": 10922
+    },
+    "Q7342087": {
+      "martyrologyLine": 10925
+    },
+    "Q7343359": {
+      "martyrologyLine": 10928
+    },
+    "Q7343525": {
+      "martyrologyLine": 10931
+    },
+    "Q7343653": {
+      "martyrologyLine": 10934
+    },
+    "Q7344975": {
+      "martyrologyLine": 10937
+    },
+    "Q7346151": {
+      "martyrologyLine": 10940
+    },
+    "Q7346756": {
+      "martyrologyLine": 10943
+    },
+    "Q7347035": {
+      "martyrologyLine": 10946
+    },
+    "Q7350171": {
+      "martyrologyLine": 10949
+    },
+    "Q7350390": {
+      "martyrologyLine": 10952
+    },
+    "Q7402135": {
+      "martyrologyLine": 11009
+    },
+    "Q74250662": {
+      "martyrologyLine": 15168
+    },
+    "Q7442488": {
+      "martyrologyLine": 11015
+    },
+    "Q744531": {
+      "name": "Pedro Pascoal",
+      "martyrologyLine": 4129,
+      "nameSource": "https://liturgia.pt/martirologio/pdf/Martirologio_ind.pdf"
+    },
+    "Q7610000": {
+      "martyrologyLine": 11033
+    },
+    "Q7659971": {
+      "martyrologyLine": 11040
+    },
+    "Q76749": {
+      "martyrologyLine": 409
+    },
+    "Q775270": {
+      "martyrologyLine": 4219
+    },
+    "Q778640": {
+      "martyrologyLine": 4234
+    },
+    "Q7787562": {
+      "martyrologyLine": 11052
+    },
+    "Q7789552": {
+      "martyrologyLine": 11058
+    },
+    "Q7789712": {
+      "martyrologyLine": 11061
+    },
+    "Q7792240": {
+      "martyrologyLine": 11070
+    },
+    "Q7792983": {
+      "martyrologyLine": 11073
+    },
+    "Q7793159": {
+      "martyrologyLine": 11076
+    },
+    "Q7793938": {
+      "martyrologyLine": 11082
+    },
+    "Q7794135": {
+      "martyrologyLine": 11089
+    },
+    "Q7794467": {
+      "martyrologyLine": 11092
+    },
+    "Q7794592": {
+      "martyrologyLine": 11098
+    },
+    "Q7794962": {
+      "martyrologyLine": 11101
+    },
+    "Q7795082": {
+      "martyrologyLine": 11107
+    },
+    "Q7848422": {
+      "martyrologyLine": 11119
+    },
+    "Q7848469": {
+      "martyrologyLine": 11125
+    },
+    "Q797831": {
+      "martyrologyLine": 4270
+    },
+    "Q8007713": {
+      "martyrologyLine": 11143
+    },
+    "Q8008727": {
+      "martyrologyLine": 11146
+    },
+    "Q8009028": {
+      "martyrologyLine": 11149
+    },
+    "Q8010909": {
+      "martyrologyLine": 11158
+    },
+    "Q8010971": {
+      "martyrologyLine": 11161
+    },
+    "Q8012826": {
+      "martyrologyLine": 11164
+    },
+    "Q8014083": {
+      "martyrologyLine": 11167
+    },
+    "Q8016623": {
+      "martyrologyLine": 11170
+    },
+    "Q8016900": {
+      "martyrologyLine": 11173
+    },
+    "Q8017556": {
+      "martyrologyLine": 11176
+    },
+    "Q8018625": {
+      "martyrologyLine": 11179
+    },
+    "Q8018655": {
+      "martyrologyLine": 11182
+    },
+    "Q8019434": {
+      "martyrologyLine": 11185
+    },
+    "Q818683": {
+      "martyrologyLine": 4291
+    },
+    "Q844097": {
+      "martyrologyLine": 4339
+    },
+    "Q85974256": {
+      "martyrologyLine": 15421,
+      "name": "Teógenes de Hipona",
+      "nameSource": "https://liturgia.pt/martirologio/pdf/Martirologio_ind.pdf"
+    },
+    "Q864852": {
+      "martyrologyLine": 4352
+    },
+    "Q867765": {
+      "martyrologyLine": 4356
+    },
+    "Q8776192": {
+      "martyrologyLine": 11240
+    },
+    "Q9015606": {
+      "martyrologyLine": 11267
+    },
+    "Q9029841": {
+      "martyrologyLine": 11282
+    },
+    "Q9048833": {
+      "martyrologyLine": 11285
+    },
+    "Q9141897": {
+      "martyrologyLine": 11300
+    },
+    "Q9141916": {
+      "martyrologyLine": 11304
+    },
+    "Q9141938": {
+      "martyrologyLine": 11308
+    },
+    "Q9141961": {
+      "martyrologyLine": 11311
+    },
+    "Q9141962": {
+      "martyrologyLine": 11315
+    },
+    "Q9142291": {
+      "martyrologyLine": 11322
+    },
+    "Q9146987": {
+      "martyrologyLine": 11339
+    },
+    "Q9147837": {
+      "martyrologyLine": 11346
+    },
+    "Q9149855": {
+      "martyrologyLine": 11349
+    },
+    "Q9151792": {
+      "martyrologyLine": 11358
+    },
+    "Q9154163": {
+      "martyrologyLine": 11377
+    },
+    "Q9155300": {
+      "martyrologyLine": 11380
+    },
+    "Q9157169": {
+      "martyrologyLine": 11390
+    },
+    "Q9157170": {
+      "martyrologyLine": 11394
+    },
+    "Q9162179": {
+      "martyrologyLine": 11428
+    },
+    "Q9165318": {
+      "martyrologyLine": 11436
+    },
+    "Q9165430": {
+      "martyrologyLine": 11440
+    },
+    "Q9165465": {
+      "martyrologyLine": 11444
+    },
+    "Q9165663": {
+      "martyrologyLine": 11448
+    },
+    "Q9166256": {
+      "martyrologyLine": 11452
+    },
+    "Q918414": {
+      "martyrologyLine": 4386
+    },
+    "Q9200": {
+      "martyrologyLine": 31
+    },
+    "Q9201374": {
+      "martyrologyLine": 11471
+    },
+    "Q9202518": {
+      "martyrologyLine": 11477
+    },
+    "Q9209812": {
+      "martyrologyLine": 11518
+    },
+    "Q9253103": {
+      "martyrologyLine": 11533
+    },
+    "Q9258795": {
+      "martyrologyLine": 11556
+    },
+    "Q9262258": {
+      "martyrologyLine": 11569
+    },
+    "Q9262301": {
+      "martyrologyLine": 11572
+    },
+    "Q9263149": {
+      "martyrologyLine": 11597
+    },
+    "Q927698": {
+      "martyrologyLine": 4437
+    },
+    "Q9288514": {
+      "martyrologyLine": 11618
+    },
+    "Q9299178": {
+      "martyrologyLine": 11627
+    },
+    "Q9325784": {
+      "martyrologyLine": 11640
+    },
+    "Q9325793": {
+      "martyrologyLine": 11644
+    },
+    "Q9333040": {
+      "martyrologyLine": 11654
+    },
+    "Q9334767": {
+      "martyrologyLine": 11669
+    },
+    "Q93397586": {
+      "martyrologyLine": 15482
+    },
+    "Q9357309": {
+      "martyrologyLine": 11699
+    },
+    "Q9357310": {
+      "martyrologyLine": 11703
+    },
+    "Q9357382": {
+      "martyrologyLine": 11707
+    },
+    "Q9359561": {
+      "martyrologyLine": 11721
+    },
+    "Q9359768": {
+      "martyrologyLine": 11725
+    },
+    "Q9359773": {
+      "martyrologyLine": 11729
+    },
+    "Q9359832": {
+      "martyrologyLine": 11733
+    },
+    "Q936256": {
+      "martyrologyLine": 4473
+    },
+    "Q9371614": {
+      "martyrologyLine": 11746
+    },
+    "Q9390838": {
+      "martyrologyLine": 11808
+    },
+    "Q9392173": {
+      "martyrologyLine": 11818
+    },
+    "Q9394485": {
+      "martyrologyLine": 11822
+    },
+    "Q9394486": {
+      "martyrologyLine": 11826
+    },
+    "Q9394618": {
+      "martyrologyLine": 11833
+    },
+    "Q9394696": {
+      "martyrologyLine": 11837
+    },
+    "Q95013": {
+      "martyrologyLine": 502
+    },
+    "Q95016": {
+      "martyrologyLine": 508
+    },
+    "Q95017": {
+      "martyrologyLine": 511
+    },
+    "Q952928": {
+      "martyrologyLine": 4548
+    },
+    "Q957622": {
+      "martyrologyLine": 4568
+    },
+    "Q959019": {
+      "martyrologyLine": 4572,
+      "name": "Arcádio da Mauritânia",
+      "nameSource": "https://liturgia.pt/martirologio/pdf/Martirologio_ind.pdf"
+    },
+    "Q9612435": {
+      "martyrologyLine": 11857
+    },
+    "Q961817": {
+      "martyrologyLine": 4581
+    },
+    "Q96221057": {
+      "martyrologyLine": 15509
+    },
+    "Q99670726": {
+      "martyrologyLine": 15572
+    }
+  }
+}
